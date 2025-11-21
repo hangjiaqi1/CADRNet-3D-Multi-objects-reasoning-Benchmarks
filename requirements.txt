@@ -1,0 +1,16 @@
+# PyTorch and Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Point Cloud Processing
+open3d>=0.17.0
+plyfile>=0.7.4
+numpy>=1.24.0
+
+# Data Processing
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
