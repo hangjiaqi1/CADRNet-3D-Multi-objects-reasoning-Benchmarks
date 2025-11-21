@@ -1,0 +1,3138 @@
+[
+  {
+    "scene_id": "scene0276_00",
+    "question": " After taking a shower, people often need to dry themselves. What item in the scene can be used for this purpose? ",
+    "answer": "The 'towel' can be used to dry yourself after taking a shower.",
+    "type": "scannet-1object",
+    "object_id_1": 28,
+    "object_id_1_name": "towel"
+  },
+  {
+    "scene_id": "scene0447_00",
+    "question": " After taking a shower, what item in the scene can be used to dry off the body before getting dressed? ",
+    "answer": "The 'towel' can be used to dry off your body after taking a shower before getting dressed.",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "towel"
+  },
+  {
+    "scene_id": "scene0659_00",
+    "question": " In a bathroom setting, what item in the scene is commonly used for drying hands or body after washing? ",
+    "answer": "The 'towel' is commonly used for drying hands or body after washing in a bathroom setting.",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "towel"
+  },
+  {
+    "scene_id": "scene0522_00",
+    "type": "scannet-1object",
+    "object_id_1": "17,34",
+    "object_id_1_name": "bag",
+    "question": "What lightweight storage item from the scene, typically made of fabric and easy to carry around, is convenient for keeping detergent and fabric softener?",
+    "answer": "The 'bag' is a lightweight fabric storage item that is convenient for carrying detergent and fabric softener."
+  },
+  {
+    "scene_id": "scene0449_00",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "bag",
+    "question": "What portable and flexible container in the scene is commonly used to hold personal toiletries, cosmetics, or essentials for convenient access?",
+    "answer": "The 'bag' serves as a portable and flexible container to hold personal toiletries, cosmetics, or essentials for convenient access."
+  },
+  {
+    "scene_id": "scene0600_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "bag",
+    "question": "When preparing for a trip, people often pack their essential items in a convenient container. What object in the scene can be used to store and transport personal belongings during travel?",
+    "answer": "The 'bag' can be used to store and transport personal belongings like clothes and toiletries when preparing for a trip."
+  },
+  {
+    "scene_id": "scene0210_00",
+    "type": "scannet-1object",
+    "object_id_1": 7,
+    "object_id_1_name": "printer",
+    "question": "What electronic device in the scene is commonly used to produce physical copies of documents or images from a computer?",
+    "answer": "The 'printer' is commonly used to produce physical copies of documents or images from a computer."
+  },
+  {
+    "scene_id": "scene0104_00",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "printer",
+    "question": "What equipment in the scene can be used to produce physical copies of documents or images from a computer?",
+    "answer": "The 'printer' can be used to produce physical copies of documents or images from a computer."
+  },
+  {
+    "scene_id": "scene0336_00",
+    "type": "scannet-1object",
+    "object_id_1": 18,
+    "object_id_1_name": "printer",
+    "question": "What equipment in the scene is commonly used to produce hard copies of documents and images?",
+    "answer": "The 'printer' is commonly used to produce hard copies of documents and images."
+  },
+  {
+    "scene_id": "scene0540_00",
+    "type": "scannet-1object",
+    "object_id_1": 34,
+    "object_id_1_name": "ladder",
+    "question": "What object in the scene could be used to reach items stored on high shelves or cabinets?",
+    "answer": "The 'ladder' can be used to safely reach items stored on high shelves or cabinets."
+  },
+  {
+    "scene_id": "scene0360_00",
+    "question": " In a construction site, what object in the scene is commonly used for reaching high areas or accessing elevated locations safely? ",
+    "answer": "The 'ladder' is commonly used for reaching high areas or accessing elevated locations safely on a construction site.",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "ladder"
+  },
+  {
+    "scene_id": "scene0138_00",
+    "type": "scannet-1object",
+    "object_id_1": 31,
+    "object_id_1_name": "ladder",
+    "question": "What object in the scene could be used to reach and access items placed at a height?",
+    "answer": "The 'ladder' can be used to safely reach and access items on high shelves or storage areas."
+  },
+  {
+    "scene_id": "scene0024_00",
+    "question": " In a room where various items are neatly arranged, which object in the scene might be used for recreational purposes or as part of an exercise routine? ",
+    "answer": "The 'ball' can be used for recreational games or as part of an exercise routine in the room.",
+    "type": "scannet-1object",
+    "object_id_1": 55,
+    "object_id_1_name": "ball"
+  },
+  {
+    "scene_id": "scene0395_00",
+    "question": " In a room where people often sit for long periods, what object in the scene could be used for a quick break or to engage in physical activity to stretch and move around? ",
+    "answer": "The 'ball' can be used for a quick break by bouncing or tossing it to engage in physical activity and stretch after sitting for long periods.",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "ball"
+  },
+  {
+    "scene_id": "scene0141_00",
+    "question": " In a room filled with various objects, which item can be used for playing sports or recreational activities, such as throwing, catching, or bouncing? ",
+    "answer": "The 'ball' can be used for playing sports or recreational activities like throwing, catching, or bouncing in the room.",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "ball"
+  },
+  {
+    "scene_id": "scene0268_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "tissue box",
+    "question": "What item in the scene is commonly used for quick access to tissues for personal hygiene or cleaning purposes?",
+    "answer": "The 'tissue box' provides quick access to tissues for personal hygiene or cleaning."
+  },
+  {
+    "scene_id": "scene0662_00",
+    "type": "scannet-1object",
+    "object_id_1": 10,
+    "object_id_1_name": "tissue box",
+    "question": "What object in the scene is typically used for easy access to tissues for drying hands or cleaning up spills?",
+    "answer": "The 'tissue box' provides easy access to tissues for drying hands or cleaning up spills."
+  },
+  {
+    "scene_id": "scene0523_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "tissue box",
+    "question": "During a cold or allergy season, what item in the scene can be particularly useful for guests to have easy access to tissues for sneezing or runny noses?",
+    "answer": "The 'tissue box' provides easy access to tissues for guests to manage sneezing or runny noses during cold or allergy season."
+  },
+  {
+    "scene_id": "scene0679_00",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "purse",
+    "question": "In a cozy setting, what item in the scene could belong to a guest staying overnight, typically used to carry personal belongings like money, keys, and makeup?",
+    "answer": "The 'purse' can belong to a guest staying overnight, used to carry personal items such as money, keys, and makeup."
+  },
+  {
+    "scene_id": "scene0331_00",
+    "type": "scannet-1object",
+    "object_id_1": 18,
+    "object_id_1_name": "purse",
+    "question": "When getting ready to go out, what item in the scene would you most likely use to carry your essentials such as keys, wallet, and phone?",
+    "answer": "The 'purse' is ideal for carrying essentials like keys, wallet, and phone when getting ready to go out."
+  },
+  {
+    "scene_id": "scene0024_00",
+    "question": " During a formal event, a woman may carry a small bag to hold her essentials such as keys, phone, and makeup. What accessory in the scene could serve this purpose? ",
+    "answer": "The 'purse' can be used by a woman to hold her essentials like keys, phone, and makeup during a formal event.",
+    "type": "scannet-1object",
+    "object_id_1": 62,
+    "object_id_1_name": "purse"
+  },
+  {
+    "scene_id": "scene0582_00",
+    "type": "scannet-1object",
+    "object_id_1": "15,16,17,23,24",
+    "object_id_1_name": "monitor",
+    "question": "Which object in this scene is typically used as a display screen for the computer to show digital information and images?",
+    "answer": "The 'monitor' serves as the display screen for the computer to show digital information and images."
+  },
+  {
+    "scene_id": "scene0079_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "monitor",
+    "question": "Employees often use a particular device to display information, documents, and perform tasks. What object in this scene serves this purpose?",
+    "answer": "The 'monitor' is used by employees to display information, documents, and perform tasks."
+  },
+  {
+    "scene_id": "scene0619_00",
+    "type": "scannet-1object",
+    "object_id_1": "7,8,12",
+    "object_id_1_name": "monitor",
+    "question": "Which object in the scene is used to display information from the computer and allow users to interact with software applications?",
+    "answer": "The 'monitor' is used to display information from the computer and allow users to interact with software applications."
+  },
+  {
+    "scene_id": "scene0138_00",
+    "type": "scannet-1object",
+    "object_id_1": 39,
+    "object_id_1_name": "keyboard",
+    "question": "What object in the scene is essential for inputting data and commands into a computer system?",
+    "answer": "The 'keyboard' is essential for inputting data and commands into a computer system."
+  },
+  {
+    "scene_id": "scene0582_00",
+    "type": "scannet-1object",
+    "object_id_1": "28,29,30",
+    "object_id_1_name": "keyboard",
+    "question": "What essential tool in the scene is used for inputting data and commands into a computer system?",
+    "answer": "The 'keyboard' is the essential tool used for inputting data and commands into a computer system."
+  },
+  {
+    "scene_id": "scene0092_00",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "keyboard",
+    "question": "In a cozy setup, where one might enjoy playing music or typing on a computer, what object in the scene would be essential for typing and interacting with the computer?",
+    "answer": "The 'keyboard' is essential for typing and interacting with the computer."
+  },
+  {
+    "scene_id": "scene0517_00",
+    "type": "scannet-1object",
+    "object_id_1": "24,63",
+    "object_id_1_name": "laptop",
+    "question": "Imagine a person sitting on the couch in the scene, wanting to work on a project. What portable electronic device can they use to access their files and complete their tasks?",
+    "answer": "The 'laptop' can be used to access files and complete tasks while sitting on the couch."
+  },
+  {
+    "scene_id": "scene0333_00",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "laptop",
+    "question": "What portable device in the scene allows individuals to work on tasks and projects from various locations?",
+    "answer": "The 'laptop' enables individuals to work on tasks and projects from various locations."
+  },
+  {
+    "scene_id": "scene0673_00",
+    "type": "scannet-1object",
+    "object_id_1": "15,48",
+    "object_id_1_name": "laptop",
+    "question": "Imagine someone sitting on the couch. They want to watch a movie or browse the internet. What electronic device in the scene could they use for entertainment purposes?",
+    "answer": "The 'laptop' can be used to watch movies or browse the internet for entertainment while sitting on the couch."
+  },
+  {
+    "scene_id": "scene0464_00",
+    "type": "scannet-1object",
+    "object_id_1": "18,20",
+    "object_id_1_name": "mouse",
+    "question": "What device in the scene is commonly used to control the cursor on the computer screen and facilitate navigation and selection tasks?",
+    "answer": "The 'mouse' is commonly used to control the cursor on the computer screen and facilitate navigation and selection tasks."
+  },
+  {
+    "scene_id": "scene0592_00",
+    "type": "scannet-1object",
+    "object_id_1": "44,50,52",
+    "object_id_1_name": "mouse",
+    "question": "What object in the scene is commonly used to control the cursor on the computer screen?",
+    "answer": "The 'mouse' is commonly used to control the cursor on the computer screen."
+  },
+  {
+    "scene_id": "scene0582_00",
+    "type": "scannet-1object",
+    "object_id_1": 31,
+    "object_id_1_name": "mouse",
+    "question": "When working at a desk, what device in the scene is commonly used to control the cursor on the computer screen?",
+    "answer": "The 'mouse' is commonly used to control the cursor on the computer screen when working at a desk."
+  },
+  {
+    "scene_id": "scene0656_00",
+    "type": "scannet-1object",
+    "object_id_1": "19,20",
+    "object_id_1_name": "pillow",
+    "question": "When setting up a cozy reading nook, what essential item in the scene can provide comfort and support for leaning back while enjoying a book?",
+    "answer": "The 'pillow' can provide comfort and support for leaning back while enjoying a book."
+  },
+  {
+    "scene_id": "scene0128_00",
+    "type": "scannet-1object",
+    "object_id_1": "6,7,8,9,10,11",
+    "object_id_1_name": "pillow",
+    "question": "When designing a cozy space, what item in the scene can be strategically placed on the couch to add comfort and style to the seating area?",
+    "answer": "The 'pillow' can be strategically placed on the couch to enhance comfort and add a stylish touch to the seating area."
+  },
+  {
+    "scene_id": "scene0397_00",
+    "type": "scannet-1object",
+    "object_id_1": "10,18",
+    "object_id_1_name": "pillow",
+    "question": "In a cozy setup, what soft object from the scene specifically supports the head and neck for comfortable sleep?",
+    "answer": "The 'pillow' supports the head and neck for comfortable sleep by providing soft cushioning."
+  },
+  {
+    "scene_id": "scene0451_00",
+    "question": " When wanting to block out sunlight or maintain privacy in a room, what object in the scene can be used to cover the window? ",
+    "answer": "The 'curtain' can be used to cover the window to block out sunlight or maintain privacy in the room.",
+    "type": "scannet-1object",
+    "object_id_1": "25,31",
+    "object_id_1_name": "curtain"
+  },
+  {
+    "scene_id": "scene0557_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "curtain",
+    "question": "What object in the scene is commonly used to cover windows for privacy and to block out sunlight?",
+    "answer": "The 'curtain' is commonly used to cover windows for privacy and to block out sunlight."
+  },
+  {
+    "scene_id": "scene0394_00",
+    "question": " Imagine you are in a room with bright sunlight streaming in through the window. What object in the scene can be used to block or filter the sunlight, providing privacy and controlling the amount of light entering the room? ",
+    "answer": "The 'curtain' can be drawn to block or filter the sunlight, offering privacy and controlling the light in the room.",
+    "type": "scannet-1object",
+    "object_id_1": "2,3",
+    "object_id_1_name": "curtain"
+  },
+  {
+    "scene_id": "scene0238_00",
+    "question": " In a dimly lit room, what object in the scene can be turned on to provide additional illumination for the workspace or reading area? ",
+    "answer": "The 'lamp' can be turned on to provide additional illumination for the workspace or reading area in a dimly lit room.",
+    "type": "scannet-1object",
+    "object_id_1": 27,
+    "object_id_1_name": "lamp"
+  },
+  {
+    "scene_id": "scene0615_00",
+    "question": " When reading a book before going to bed, what object in the scene can provide focused light for better visibility of the text? ",
+    "answer": "The 'lamp' can provide focused light for better visibility of the text when reading a book before going to bed.",
+    "type": "scannet-1object",
+    "object_id_1": 8,
+    "object_id_1_name": "lamp"
+  },
+  {
+    "scene_id": "scene0576_00",
+    "question": " In a cozy reading nook, what object in the scene can provide soft, warm lighting to create a relaxing atmosphere for enjoying a good book? ",
+    "answer": "The 'lamp' can provide soft, warm lighting in the reading nook to create a relaxing atmosphere for enjoying a good book.",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "lamp"
+  },
+  {
+    "scene_id": "scene0507_00",
+    "type": "scannet-1object",
+    "object_id_1": "0,1",
+    "object_id_1_name": "end table",
+    "question": "In a cozy setup, where can one typically find a place to conveniently keep a glass of water, a book, or a phone within arm's reach while in bed?",
+    "answer": "The 'end table' is typically placed beside the bed to conveniently hold a glass of water, a book, or a phone within arm's reach."
+  },
+  {
+    "scene_id": "scene0548_00",
+    "question": " During the winter season, what item in the scene can provide warmth and comfort while sleeping in bed? ",
+    "answer": "The 'blanket' can provide warmth and comfort while sleeping in bed during the winter season.",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "blanket"
+  },
+  {
+    "scene_id": "scene0151_00",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "blanket",
+    "question": "During a cold winter night, what item in the scene can provide warmth and comfort while sitting on the couch watching TV?",
+    "answer": "The 'blanket' can be wrapped around you to provide warmth and comfort while sitting on the couch watching TV on a cold winter night."
+  },
+  {
+    "scene_id": "scene0233_00",
+    "type": "scannet-1object",
+    "object_id_1": "33,34",
+    "object_id_1_name": "blanket",
+    "question": "In a cozy setting, what item in the scene can provide warmth and comfort while sleeping or relaxing on the bed?",
+    "answer": "The 'blanket' can provide warmth and comfort while sleeping or relaxing on the bed in a cozy setting."
+  },
+  {
+    "scene_id": "scene0564_00",
+    "type": "scannet-1object",
+    "object_id_1": 23,
+    "object_id_1_name": "sign",
+    "question": "In a public setting, what object in the scene might provide important information or instructions to the users?",
+    "answer": "The 'sign' can display important information or instructions such as rules or emergency procedures for users."
+  },
+  {
+    "scene_id": "scene0128_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "sign",
+    "question": "In a public setting, what object in the scene can provide important information or directions to visitors?",
+    "answer": "The 'sign' can display directions or important information to guide visitors."
+  },
+  {
+    "scene_id": "scene0688_00",
+    "type": "scannet-1object",
+    "object_id_1": "6,14,15,24",
+    "object_id_1_name": "sign",
+    "question": "In a hotel setting, what object in the scene might provide information or guidance to guests about services or amenities?",
+    "answer": "The 'sign' can display information about services like breakfast hours, Wi-Fi access, or emergency procedures for guests."
+  },
+  {
+    "scene_id": "scene0501_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "toilet",
+    "question": "When someone needs to relieve themselves urgently, what object in the scene would they likely head towards?",
+    "answer": "The 'toilet' is the object they would head towards to relieve themselves when needed urgently."
+  },
+  {
+    "scene_id": "scene0195_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "toilet",
+    "question": "Which object in the scene is commonly used for personal hygiene and waste disposal?",
+    "answer": "The 'toilet' is commonly used for personal hygiene and waste disposal."
+  },
+  {
+    "scene_id": "scene0446_00",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "toilet",
+    "question": "What fixed object from the scene is primarily used for personal hygiene purposes and disposal of human waste?",
+    "answer": "The 'toilet' is primarily used for personal hygiene and disposal of human waste."
+  },
+  {
+    "scene_id": "scene0449_00",
+    "type": "scannet-1object",
+    "object_id_1": "11,14",
+    "object_id_1_name": "toilet paper",
+    "question": "What essential item can be found near the toilet for personal hygiene purposes?",
+    "answer": "The 'toilet paper' is an essential item found near the toilet for personal hygiene purposes, used for cleaning after use."
+  },
+  {
+    "scene_id": "scene0062_00",
+    "type": "scannet-1object",
+    "object_id_1": "13,14,22",
+    "object_id_1_name": "toilet paper",
+    "question": "In a public setting, what essential item is typically provided for personal hygiene purposes?",
+    "answer": "The 'toilet paper' is typically provided for personal hygiene purposes such as cleaning after use."
+  },
+  {
+    "scene_id": "scene0366_00",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "toilet paper",
+    "question": "What essential item is commonly used for personal hygiene purposes after using the toilet?",
+    "answer": "The 'toilet paper' is commonly used for personal hygiene after using the toilet."
+  },
+  {
+    "scene_id": "scene0625_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "shower curtain",
+    "question": "What object is designed to prevent water from splashing while showering?",
+    "answer": "The 'shower curtain' is designed to prevent water from splashing while showering."
+  },
+  {
+    "scene_id": "scene0570_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "shower curtain",
+    "question": "What item is used to prevent water from splashing while bathing?",
+    "answer": "The 'shower curtain' is used to prevent water from splashing while bathing."
+  },
+  {
+    "scene_id": "scene0083_00",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "shower curtain",
+    "question": "What object is commonly used to prevent water from splashing while bathing?",
+    "answer": "The 'shower curtain' is commonly used to prevent water from splashing while bathing."
+  },
+  {
+    "scene_id": "scene0214_00",
+    "type": "scannet-1object",
+    "object_id_1": 2,
+    "object_id_1_name": "bottle",
+    "question": "What item could potentially contain a condiment, sauce, or liquid ingredient used for cooking or flavoring dishes?",
+    "answer": "The 'bottle' can hold condiments like soy sauce or oil for cooking and flavoring dishes."
+  },
+  {
+    "scene_id": "scene0501_00",
+    "type": "scannet-1object",
+    "object_id_1": "17,23,25,26,36,39",
+    "object_id_1_name": "bottle",
+    "question": "What object is commonly used to store and dispense liquid soap or shampoo for personal hygiene purposes?",
+    "answer": "The 'bottle' is commonly used to store and dispense liquid soap or shampoo for personal hygiene."
+  },
+  {
+    "scene_id": "scene0615_00",
+    "question": " While getting ready for bed, one might want to have a drink of water nearby in case they get thirsty during the night. What item in the scene could be used to hold water for this purpose? ",
+    "answer": "The 'bottle' can be used to hold water on a nightstand for drinking during the night.",
+    "type": "scannet-1object",
+    "object_id_1": 36,
+    "object_id_1_name": "bottle"
+  },
+  {
+    "scene_id": "scene0538_00",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "soap dispenser",
+    "question": "Maintaining hygiene is essential. What item can help individuals clean their hands effectively after using the facilities?",
+    "answer": "The 'soap dispenser' provides liquid soap for individuals to wash their hands thoroughly, ensuring hygiene."
+  },
+  {
+    "scene_id": "scene0510_00",
+    "type": "scannet-1object",
+    "object_id_1": "15,19",
+    "object_id_1_name": "soap dispenser",
+    "question": "While washing hands, what object can provide liquid soap to help clean hands effectively?",
+    "answer": "The 'soap dispenser' provides liquid soap to effectively clean your hands while washing."
+  },
+  {
+    "scene_id": "scene0158_00",
+    "type": "scannet-1object",
+    "object_id_1": 27,
+    "object_id_1_name": "soap dispenser",
+    "question": "Maintaining proper hygiene is crucial. Which item can help in ensuring clean hands before and after handling food?",
+    "answer": "The 'soap dispenser' provides liquid soap for washing hands, ensuring proper hygiene before and after handling food."
+  },
+  {
+    "scene_id": "scene0602_00",
+    "question": " In case of a plumbing emergency, such as a leaking pipe or a clogged toilet, what object in the scene can be used to collect water or debris? ",
+    "answer": "The 'bucket' can be used to collect water from a leaking pipe or debris from a clogged toilet during a plumbing emergency.",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "bucket"
+  },
+  {
+    "scene_id": "scene0007_00",
+    "question": " In a scenario where a leak suddenly occurs in the ceiling, what object in the scene might be used to collect the water dripping from above to prevent it from spreading further? ",
+    "answer": "The 'bucket' can be placed under the leak to collect dripping water and prevent it from spreading on the floor.",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "bucket"
+  },
+  {
+    "scene_id": "scene0505_00",
+    "question": " In a workplace setting, accidents can happen, and it's important to have certain items readily available for unexpected situations. What object in the scene can be utilized to contain and clean up spills or leaks efficiently? ",
+    "answer": "The 'bucket' can be used to contain and clean up spills or leaks efficiently in a workplace setting.",
+    "type": "scannet-1object",
+    "object_id_1": 55,
+    "object_id_1_name": "bucket"
+  },
+  {
+    "scene_id": "scene0640_00",
+    "question": " When coming back home on a chilly evening, what clothing item from the scene would you remove and hang up for easy access later? ",
+    "answer": "The 'jacket' can be removed and hung up upon returning home on a chilly evening to keep it ready for future use.",
+    "type": "scannet-1object",
+    "object_id_1": 38,
+    "object_id_1_name": "jacket"
+  },
+  {
+    "scene_id": "scene0288_00",
+    "type": "scannet-1object",
+    "object_id_1": 33,
+    "object_id_1_name": "jacket",
+    "question": "If someone is cooking and suddenly feels cold, what item can they grab to keep warm?",
+    "answer": "The 'jacket' can be worn to provide warmth if someone feels cold while cooking."
+  },
+  {
+    "scene_id": "scene0630_00",
+    "question": " If someone is getting ready to go outside on a chilly day, what item in this scene can they grab to keep themselves warm? ",
+    "answer": "The 'jacket' can be grabbed to provide warmth and protection from the cold when going outside on a chilly day.",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "jacket"
+  },
+  {
+    "scene_id": "scene0349_00",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "broom",
+    "question": "Which tool in the scene would be most helpful for sweeping up any dust or lint on the floor?",
+    "answer": "The 'broom' is the most helpful tool for sweeping up dust and lint on the floor."
+  },
+  {
+    "scene_id": "scene0510_00",
+    "type": "scannet-1object",
+    "object_id_1": "54,55,56",
+    "object_id_1_name": "broom",
+    "question": "After a busy day of cleaning, a janitor might use a tool to sweep the floor and keep it tidy. What object in the scene could the janitor use for this task?",
+    "answer": "The 'broom' can be used by the janitor to sweep the floor and maintain tidiness."
+  },
+  {
+    "scene_id": "scene0564_00",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "broom",
+    "question": "Cleanliness is essential for maintaining a hygienic environment. What tool in the scene can be used to sweep and tidy up the floors?",
+    "answer": "The 'broom' can be used to sweep and tidy up the floors to maintain cleanliness."
+  },
+  {
+    "scene_id": "scene0014_00",
+    "question": " In case of an emergency such as a fire, what safety feature in the scene is designed to alert occupants of the building? ",
+    "answer": "The 'fire alarm' is designed to alert occupants of the building by emitting a loud sound in case of an emergency such as a fire.",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "fire alarm"
+  },
+  {
+    "scene_id": "scene0646_00",
+    "question": " In case of an emergency such as a fire outbreak, which safety device in the scene is designed to alert people by making a loud sound? ",
+    "answer": "The 'fire alarm' is designed to alert people by making a loud sound in case of a fire emergency.",
+    "type": "scannet-1object",
+    "object_id_1": 35,
+    "object_id_1_name": "fire alarm"
+  },
+  {
+    "scene_id": "scene0510_00",
+    "type": "scannet-1object",
+    "object_id_1": 61,
+    "object_id_1_name": "fire alarm",
+    "question": "In case of an emergency like a fire, what device in the scene is designed to alert people to evacuate the building?",
+    "answer": "The 'fire alarm' is designed to alert people to evacuate the building during a fire emergency."
+  },
+  {
+    "scene_id": "scene0657_00",
+    "type": "scannet-1object",
+    "object_id_1": "1,2,3,4,5,6,7,8,9,10,11,12,13,20,23,24,25,26,28,29,30,31,32,33,34,35,36",
+    "object_id_1_name": "chair",
+    "question": "Where do students typically sit during a lesson to listen to the teacher and participate in discussions?",
+    "answer": "Students typically sit on the 'chair' to listen to the teacher and participate in discussions."
+  },
+  {
+    "scene_id": "scene0624_00",
+    "type": "scannet-1object",
+    "object_id_1": "7,8,10,11,12,13,14,15,32",
+    "object_id_1_name": "chair",
+    "question": "Where would a student typically sit to listen to the teacher and take notes during a lesson?",
+    "answer": "The 'chair' is typically placed at a desk, allowing a student to sit comfortably while listening to the teacher and taking notes."
+  },
+  {
+    "scene_id": "scene0292_00",
+    "question": " In a room where people gather for meetings or discussions, what object in the scene can provide seating for individuals to sit comfortably during conversations? ",
+    "answer": "The 'chair' provides seating for individuals to sit comfortably during meetings or discussions in the room.",
+    "type": "scannet-1object",
+    "object_id_1": "1,2,3,4,5,6,7,8",
+    "object_id_1_name": "chair"
+  },
+  {
+    "scene_id": "scene0637_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "table",
+    "question": "Where would you typically find a place to place your laptop, notebook, and a cup of coffee while working?",
+    "answer": "The 'table' provides a stable surface for placing your laptop, notebook, and cup of coffee while you work."
+  },
+  {
+    "scene_id": "scene0123_00",
+    "question": " In a room where a person is getting ready, what furniture piece in the scene can be used to neatly organize and display accessories like jewelry and watches? ",
+    "answer": "The 'table' can be used to neatly organize and display accessories like jewelry and watches in a room where a person is getting ready.",
+    "type": "scannet-1object",
+    "object_id_1": "18,19,20,21",
+    "object_id_1_name": "table"
+  },
+  {
+    "scene_id": "scene0082_00",
+    "type": "scannet-1object",
+    "object_id_1": "7,8,9,10",
+    "object_id_1_name": "table",
+    "question": "Where can one typically find a surface to place dishes, utensils, and food while eating a meal?",
+    "answer": "The 'table' provides a stable surface for placing dishes, utensils, and food during meals."
+  },
+  {
+    "scene_id": "scene0360_00",
+    "question": " In a room with only one entrance, what object in the scene allows for entry and exit? ",
+    "answer": "The 'door' provides the only entry and exit point in a room with a single entrance.",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "door"
+  },
+  {
+    "scene_id": "scene0027_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "door",
+    "question": "What object in the scene can be opened or closed to provide privacy or restrict access?",
+    "answer": "The 'door' can be opened or closed to provide privacy or restrict access."
+  },
+  {
+    "scene_id": "scene0066_00",
+    "question": " In a room with various furniture and objects, what feature in the scene provides entry and exit access to the space? ",
+    "answer": "The 'door' provides entry and exit access to the room, allowing people to move in and out of the space.",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "door"
+  },
+  {
+    "scene_id": "scene0055_00",
+    "question": " When waking up in the morning, what object in the room can provide natural light and a view of the outside world? ",
+    "answer": "The 'window' can provide natural light and a view of the outside world when waking up in the morning.",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "window"
+  },
+  {
+    "scene_id": "scene0036_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "window",
+    "question": "What architectural element in the scene can provide a source of daylight and a view to the outside environment?",
+    "answer": "The 'window' can provide a source of daylight and a view to the outside environment."
+  },
+  {
+    "scene_id": "scene0596_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "window",
+    "question": "If you were a weather AI monitoring the conditions outside, what part would you look through to observe the current weather?",
+    "answer": "The 'window' allows the weather AI to observe current outdoor conditions by providing a clear view outside."
+  },
+  {
+    "scene_id": "scene0376_00",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "desk",
+    "question": "Where can one typically find a surface to work on, write, or place a laptop for convenience?",
+    "answer": "The 'desk' provides a stable surface for working, writing, or placing a laptop conveniently."
+  },
+  {
+    "scene_id": "scene0400_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "desk",
+    "question": "Where can one typically find a designated area for studying, working, or personal activities?",
+    "answer": "The 'desk' often serves as a designated area for studying, working, or personal activities."
+  },
+  {
+    "scene_id": "scene0298_00",
+    "question": " In a hotel room, where can guests typically find a designated area to sit and work on their laptops or write postcards? ",
+    "answer": "The 'desk' in a hotel room provides a designated area for guests to sit and work on their laptops or write postcards.",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "desk"
+  },
+  {
+    "scene_id": "scene0600_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "bookshelf",
+    "question": "Where can one find a collection of books neatly organized for some bedtime reading?",
+    "answer": "The 'bookshelf' holds a collection of books neatly organized for convenient bedtime reading."
+  },
+  {
+    "scene_id": "scene0443_00",
+    "type": "scannet-1object",
+    "object_id_1": "12,25,27",
+    "object_id_1_name": "bookshelf",
+    "question": "Where can one find a collection of books neatly organized for easy access and reading?",
+    "answer": "The 'bookshelf' holds a collection of books neatly organized for easy access and reading."
+  },
+  {
+    "scene_id": "scene0089_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "bookshelf",
+    "question": "Where can students find additional resources such as textbooks, reference materials, or novels?",
+    "answer": "Students can find additional resources like textbooks, reference materials, or novels on the 'bookshelf'."
+  },
+  {
+    "scene_id": "scene0679_00",
+    "type": "scannet-1object",
+    "object_id_1": "14,15",
+    "object_id_1_name": "nightstand",
+    "question": "Before going to bed, people often place certain items next to them for easy access during the night. What piece of furniture is typically used for this purpose?",
+    "answer": "The 'nightstand' is typically used to place items like a lamp, phone, or book for easy access during the night."
+  },
+  {
+    "scene_id": "scene0085_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "nightstand",
+    "question": "Before going to bed, many people like to have a glass of water nearby in case they get thirsty during the night. What furniture piece is typically used for this purpose?",
+    "answer": "The 'nightstand' is typically used to place a glass of water nearby for easy access during the night."
+  },
+  {
+    "scene_id": "scene0589_00",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "nightstand",
+    "question": "Before going to bed, many people like to read a book or place their essentials within reach. What furniture piece can serve as a convenient spot to place a book, glasses, or a glass of water next to the bed?",
+    "answer": "The 'nightstand' can serve as a convenient spot to place a book, glasses, or a glass of water before going to sleep."
+  },
+  {
+    "scene_id": "scene0121_00",
+    "question": " In the morning rush to get ready for work, where in the scene can one quickly find and organize their clothes for the day ahead? ",
+    "answer": "The 'dresser' provides drawers where one can quickly find and organize clothes for the day ahead during a morning rush.",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "dresser"
+  },
+  {
+    "scene_id": "scene0359_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "dresser",
+    "question": "Where can one typically find a piece of furniture used for storing clothes, accessories, and personal items neatly?",
+    "answer": "The 'dresser' is typically placed against a wall to store clothes, accessories, and personal items neatly."
+  },
+  {
+    "scene_id": "scene0504_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "dresser",
+    "question": "Where would one typically store clothes like shirts, pants, and socks?",
+    "answer": "The 'dresser' is typically used to store clothes like shirts, pants, and socks in its drawers."
+  },
+  {
+    "scene_id": "scene0597_00",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "microwave",
+    "question": "If someone wants to quickly heat up a meal or snack, what appliance in the scene would they most likely use?",
+    "answer": "The 'microwave' is the appliance most likely used to quickly heat up a meal or snack."
+  },
+  {
+    "scene_id": "scene0439_00",
+    "type": "scannet-1object",
+    "object_id_1": 2,
+    "object_id_1_name": "microwave",
+    "question": "Suppose you are preparing a quick meal and need to heat up some leftovers. What appliance in the scene can help you quickly warm up your food?",
+    "answer": "The 'microwave' can quickly heat up your leftovers for a quick meal."
+  },
+  {
+    "scene_id": "scene0003_00",
+    "type": "scannet-1object",
+    "object_id_1": 8,
+    "object_id_1_name": "microwave",
+    "question": "When preparing a quick meal, which appliance in the scene is commonly used to heat up food rapidly?",
+    "answer": "The 'microwave' is commonly used to heat up food rapidly when preparing a quick meal."
+  },
+  {
+    "scene_id": "scene0048_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "dishwasher",
+    "question": "Which appliance in the scene is commonly used to clean dishes efficiently and save time compared to handwashing?",
+    "answer": "The 'dishwasher' is commonly used to clean dishes efficiently and save time compared to handwashing."
+  },
+  {
+    "scene_id": "scene0390_00",
+    "type": "scannet-1object",
+    "object_id_1": 31,
+    "object_id_1_name": "dishwasher",
+    "question": "After a big family dinner, there are many dirty dishes to clean. Which appliance in the scene can help with washing and drying the dishes efficiently?",
+    "answer": "The 'dishwasher' can efficiently wash and dry all the dirty dishes from your big family dinner."
+  },
+  {
+    "scene_id": "scene0654_00",
+    "type": "scannet-1object",
+    "object_id_1": 23,
+    "object_id_1_name": "dishwasher",
+    "question": "After a big family dinner, where can one place all the dirty dishes for cleaning in the scene?",
+    "answer": "The 'dishwasher' can be used to place all the dirty dishes for cleaning after a big family dinner."
+  },
+  {
+    "scene_id": "scene0407_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "plant",
+    "question": "What decorative item in the scene can bring a touch of nature and freshness?",
+    "answer": "The 'plant' can bring a touch of nature and freshness by adding greenery and improving air quality."
+  },
+  {
+    "scene_id": "scene0273_00",
+    "type": "scannet-1object",
+    "object_id_1": "11,12",
+    "object_id_1_name": "plant",
+    "question": "What decorative item in the scene can add a touch of nature and greenery?",
+    "answer": "The 'plant' can add a touch of nature and greenery, enhancing its aesthetic appeal."
+  },
+  {
+    "scene_id": "scene0390_00",
+    "type": "scannet-1object",
+    "object_id_1": 25,
+    "object_id_1_name": "plant",
+    "question": "Adding a touch of greenery can help create a more vibrant and inviting atmosphere. What object in the scene can contribute to this by bringing some nature indoors?",
+    "answer": "The 'plant' can contribute to a vibrant and inviting atmosphere by bringing a touch of nature indoors."
+  },
+  {
+    "scene_id": "scene0116_00",
+    "question": " When taking a relaxing bath in a tub, what object in the scene can hold the water for the bath? ",
+    "answer": "The 'bathtub' can hold the water for the bath, allowing you to soak and relax.",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "bathtub"
+  },
+  {
+    "scene_id": "scene0065_00",
+    "question": " After a long day, some people like to unwind and relax by taking a bath. What feature in the scene provides a space for individuals to soak and relax in warm water? ",
+    "answer": "The 'bathtub' provides a space for individuals to soak and relax in warm water after a long day.",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "bathtub"
+  },
+  {
+    "scene_id": "scene0662_00",
+    "type": "scannet-1object",
+    "object_id_1": 2,
+    "object_id_1_name": "bathtub",
+    "question": "After a long day at work, some people enjoy taking a relaxing bath to unwind. What object in the scene could provide a soothing and rejuvenating experience?",
+    "answer": "The 'bathtub' can provide a soothing and rejuvenating experience by allowing you to soak in warm water after a long day."
+  },
+  {
+    "scene_id": "scene0530_00",
+    "type": "scannet-1object",
+    "object_id_1": 18,
+    "object_id_1_name": "basket",
+    "question": "In a tidy and organized space, what object in the scene can be used to neatly store and organize smaller items like toys or accessories?",
+    "answer": "The 'basket' can be used to neatly store and organize smaller items like toys or accessories."
+  },
+  {
+    "scene_id": "scene0577_00",
+    "type": "scannet-1object",
+    "object_id_1": "1,21",
+    "object_id_1_name": "basket",
+    "question": "In a cozy setting, where can one store extra blankets or pillows for easy access during colder nights in the scene?",
+    "answer": "The 'basket' can be used to store extra blankets or pillows on the floor or in a corner for easy access during colder nights."
+  },
+  {
+    "scene_id": "scene0195_00",
+    "type": "scannet-1object",
+    "object_id_1": "18,21",
+    "object_id_1_name": "basket",
+    "question": "Where can one place dirty laundry to keep the space neat and organized before it goes into the washing machine?",
+    "answer": "The 'basket' can be placed to collect dirty laundry, keeping the area neat and organized before washing."
+  },
+  {
+    "scene_id": "scene0662_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "hair dryer",
+    "question": "After taking a shower, some people prefer to dry their hair quickly before heading out. What object in the scene can be used to achieve this?",
+    "answer": "The 'hair dryer' can be used to quickly dry your hair after a shower before you head out."
+  },
+  {
+    "scene_id": "scene0509_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "hair dryer",
+    "question": "When staying in a place, what object in the scene can be used to quickly dry hair after taking a shower?",
+    "answer": "The 'hair dryer' can be used to quickly dry your hair after taking a shower."
+  },
+  {
+    "scene_id": "scene0539_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "hair dryer",
+    "question": "After taking a shower, guests may need to dry their hair quickly before heading out. What item in the scene can they use for this purpose?",
+    "answer": "The 'hair dryer' can be used by guests to quickly dry their hair after a shower."
+  },
+  {
+    "scene_id": "scene0133_00",
+    "question": " In a room where people often come and go, what part of the scene is most likely to have footprints and dirt that need to be cleaned regularly? ",
+    "answer": "The 'floor' is most likely to have footprints and dirt that need regular cleaning in a high-traffic room.",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "floor"
+  },
+  {
+    "scene_id": "scene0437_00",
+    "question": " In a room with minimal furniture, what object in the scene serves as the foundation and base for all the other items present? ",
+    "answer": "The 'floor' serves as the foundation and base for all other items in the room, providing a stable surface for furniture and objects.",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "floor"
+  },
+  {
+    "scene_id": "scene0242_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "floor",
+    "question": "In a setting that lacks seating furniture, what large, flat surface from the scene can students sit on during class?",
+    "answer": "The 'floor' provides a large, flat surface that students can sit on during class when seating furniture is unavailable."
+  },
+  {
+    "scene_id": "scene0191_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "shelf",
+    "question": "In a setting, where would students typically store their textbooks and notebooks to keep them organized and easily accessible during the lesson?",
+    "answer": "Students can store their textbooks and notebooks on the 'shelf' to keep them organized and easily accessible during the lesson."
+  },
+  {
+    "scene_id": "scene0337_00",
+    "type": "scannet-1object",
+    "object_id_1": "0,1,4",
+    "object_id_1_name": "shelf",
+    "question": "In a space with limited area, what furniture item can be used to store and display various items such as books, decorations, or personal belongings?",
+    "answer": "The 'shelf' can be used to store and display items like books and decorations, maximizing space."
+  },
+  {
+    "scene_id": "scene0428_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "shelf",
+    "question": "Where would you likely find a display of various types of basketballs, soccer balls, and volleyballs for sale?",
+    "answer": "The 'shelf' would likely hold a display of various types of basketballs, soccer balls, and volleyballs for sale."
+  },
+  {
+    "scene_id": "scene0555_00",
+    "type": "scannet-1object",
+    "object_id_1": 29,
+    "object_id_1_name": "file cabinet",
+    "question": "Where can important documents and files be securely stored and organized to maintain tidiness?",
+    "answer": "The 'file cabinet' can securely store and organize important documents and files, helping to maintain tidiness."
+  },
+  {
+    "scene_id": "scene0614_00",
+    "type": "scannet-1object",
+    "object_id_1": "8,15,30",
+    "object_id_1_name": "file cabinet",
+    "question": "Where can important documents and files be stored securely to maintain tidiness?",
+    "answer": "The 'file cabinet' can securely store important documents and files, helping to maintain tidiness."
+  },
+  {
+    "scene_id": "scene0114_00",
+    "type": "scannet-1object",
+    "object_id_1": "11,27",
+    "object_id_1_name": "file cabinet",
+    "question": "Where can important documents and files be stored for easy organization and access?",
+    "answer": "The 'file cabinet' can store important documents and files for easy organization and access."
+  },
+  {
+    "scene_id": "scene0331_00",
+    "type": "scannet-1object",
+    "object_id_1": "14,15,16",
+    "object_id_1_name": "cup",
+    "question": "What item in the scene could be used for drinking water or holding small items like jewelry or coins?",
+    "answer": "The 'cup' can be used for drinking water or holding small items like jewelry or coins."
+  },
+  {
+    "scene_id": "scene0114_00",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "cup",
+    "question": "Employees often keep a beverage to stay hydrated throughout the day. What item in the scene can be used to hold a drink such as water or coffee?",
+    "answer": "The 'cup' can be used to hold beverages like water or coffee for hydration."
+  },
+  {
+    "scene_id": "scene0486_00",
+    "type": "scannet-1object",
+    "object_id_1": 36,
+    "object_id_1_name": "cup",
+    "question": "What item in the scene is commonly used for holding beverages like water, juice, or coffee?",
+    "answer": "The 'cup' is commonly used for holding beverages like water, juice, or coffee."
+  },
+  {
+    "scene_id": "scene0341_00",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "headphones",
+    "question": "What item in the scene can be used to listen to audio without disturbing others or being distracted by external noises?",
+    "answer": "The 'headphones' can be used to listen to audio privately, blocking external noises and avoiding disturbance to others."
+  },
+  {
+    "scene_id": "scene0464_00",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "headphones",
+    "question": "Where concentration is key, what item in the scene can be used to block out external noise and help individuals focus on their work or tasks?",
+    "answer": "The 'headphones' can be used to block out external noise, helping individuals focus on their work."
+  },
+  {
+    "scene_id": "scene0040_00",
+    "type": "scannet-1object",
+    "object_id_1": 62,
+    "object_id_1_name": "headphones",
+    "question": "What item in the scene can help someone focus on their work by blocking out distracting noises and providing clear sound for communication or entertainment?",
+    "answer": "The 'headphones' can help someone focus by blocking out distracting noises and providing clear sound for communication or entertainment."
+  },
+  {
+    "scene_id": "scene0581_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "shower",
+    "question": "Where can one typically find a space dedicated for cleaning oneself that is equipped with water nozzles for showering?",
+    "answer": "The 'shower' is typically found as a dedicated space with water nozzles for cleaning oneself."
+  },
+  {
+    "scene_id": "scene0375_00",
+    "question": " Imagine you are in a rush in the morning and need to quickly freshen up before heading out. Which object in the scene can you use to efficiently clean yourself in a short amount of time? ",
+    "answer": "The 'shower' can be used to quickly rinse off and freshen up in just a few minutes when you are in a hurry.",
+    "type": "scannet-1object",
+    "object_id_1": 7,
+    "object_id_1_name": "shower"
+  },
+  {
+    "scene_id": "scene0261_00",
+    "question": " After a long day of work, many people find relaxation in taking a warm bath to unwind. What feature in the scene can provide a refreshing and cleansing experience for individuals? ",
+    "answer": "The 'shower' can provide a refreshing and cleansing experience by allowing individuals to wash away stress and grime with warm water.",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "shower"
+  },
+  {
+    "scene_id": "scene0124_00",
+    "type": "scannet-1object",
+    "object_id_1": "15,16",
+    "object_id_1_name": "light",
+    "question": "In a dimly lit environment, what object provides illumination to help individuals see clearly while using the facilities or getting ready?",
+    "answer": "The 'light' provides illumination, helping individuals see clearly while using the facilities or getting ready."
+  },
+  {
+    "scene_id": "scene0083_00",
+    "type": "scannet-1object",
+    "object_id_1": 8,
+    "object_id_1_name": "light",
+    "question": "When taking a relaxing bath after a long day, what object can illuminate the area and create a soothing ambiance?",
+    "answer": "The 'light' can illuminate the area and create a soothing ambiance for a relaxing bath after a long day."
+  },
+  {
+    "scene_id": "scene0119_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "light",
+    "question": "What object can provide illumination for the entire area, ensuring visibility and safety while using the facilities?",
+    "answer": "The 'light' can illuminate the entire area, ensuring visibility and safety while using the facilities."
+  },
+  {
+    "scene_id": "scene0229_00",
+    "question": " When entering a house, people often take off their outdoor footwear to keep the floors clean. What item in the scene might be removed and placed near the door for this purpose? ",
+    "answer": "The 'shoe' can be removed and placed near the door to keep the floors clean when entering the house.",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "shoe"
+  },
+  {
+    "scene_id": "scene0136_00",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "paper",
+    "question": "What common supply item is essential for printing documents, taking notes, and providing written information?",
+    "answer": "The 'paper' is essential for printing documents, taking notes, and providing written information."
+  },
+  {
+    "scene_id": "scene0601_00",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "paper",
+    "question": "What item is commonly used for writing down notes, important information, or memos?",
+    "answer": "The 'paper' is commonly used for writing down notes, important information, or memos."
+  },
+  {
+    "scene_id": "scene0120_00",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "paper",
+    "question": "What item is commonly used for printing, copying, and writing down important information?",
+    "answer": "The 'paper' is commonly used for printing documents, copying files, and writing down important notes."
+  },
+  {
+    "scene_id": "scene0556_00",
+    "type": "scannet-1object",
+    "object_id_1": 30,
+    "object_id_1_name": "telephone",
+    "question": "Guests might receive important messages or calls from the front desk or other guests. What object can they use to communicate with others?",
+    "answer": "The 'telephone' can be used by guests to communicate with the front desk or other guests for messages and calls."
+  },
+  {
+    "scene_id": "scene0625_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "telephone",
+    "question": "In case of emergencies or if one needs assistance, what object can be used to quickly call for help?",
+    "answer": "The 'telephone' can be used to quickly call for help in emergencies."
+  },
+  {
+    "scene_id": "scene0440_00",
+    "type": "scannet-1object",
+    "object_id_1": 29,
+    "object_id_1_name": "telephone",
+    "question": "If a guest needs to contact the front desk for assistance or room service, what object would they most likely use for communication?",
+    "answer": "The 'telephone' allows the guest to call the front desk for assistance or room service."
+  },
+  {
+    "scene_id": "scene0194_00",
+    "type": "scannet-1object",
+    "object_id_1": "17,18",
+    "object_id_1_name": "hat",
+    "question": "Customers may try on different accessories to complete their look while selecting a musical instrument. What item could be tried on to add a touch of style to their outfit?",
+    "answer": "The 'hat' can be tried on to add a stylish touch to their outfit while browsing instruments."
+  },
+  {
+    "scene_id": "scene0096_00",
+    "question": " Imagine someone leaving their house in a hurry and almost forgetting an essential accessory to shield them from the sun. What item in the scene could they quickly grab before heading out? ",
+    "answer": "The 'hat' can be quickly grabbed to shield from the sun when leaving the house in a hurry.",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "hat"
+  },
+  {
+    "scene_id": "scene0147_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "hat",
+    "question": "What item is most likely to be worn on the head for fashion or to keep warm?",
+    "answer": "The 'hat' can be worn on the head for fashion or to keep warm."
+  },
+  {
+    "scene_id": "scene0288_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "refrigerator",
+    "question": "When preparing a meal, one often needs to store perishable items to keep them fresh. What appliance can be used for this purpose?",
+    "answer": "The 'refrigerator' can be used to store perishable items like meat and vegetables to keep them fresh while preparing a meal."
+  },
+  {
+    "scene_id": "scene0158_00",
+    "type": "scannet-1object",
+    "object_id_1": 7,
+    "object_id_1_name": "refrigerator",
+    "question": "When preparing a meal, where can one store perishable items like fruits, vegetables, and dairy products to keep them fresh?",
+    "answer": "The 'refrigerator' can store perishable items like fruits, vegetables, and dairy products to keep them fresh."
+  },
+  {
+    "scene_id": "scene0436_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "refrigerator",
+    "question": "Suppose you are preparing a meal. You need to keep certain ingredients fresh and cool. Which appliance would you use for storing perishable items like vegetables, dairy products, and meats?",
+    "answer": "The 'refrigerator' is used to keep perishable items like vegetables, dairy products, and meats fresh and cool during meal preparation."
+  },
+  {
+    "scene_id": "scene0347_00",
+    "question": " In the morning, many people rely on a specific appliance to brew their favorite morning beverage. What item in the scene is commonly used to make coffee to kickstart the day? ",
+    "answer": "The 'coffee maker' is commonly used to brew coffee in the morning to help kickstart the day.",
+    "type": "scannet-1object",
+    "object_id_1": 25,
+    "object_id_1_name": "coffee maker"
+  },
+  {
+    "scene_id": "scene0097_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "coffee maker",
+    "question": "In the morning, many people rely on a specific appliance to brew their favorite beverage. What object is commonly used to make coffee to kickstart the day?",
+    "answer": "The 'coffee maker' is commonly used to brew coffee in the morning to help kickstart the day."
+  },
+  {
+    "scene_id": "scene0198_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "coffee maker",
+    "question": "In the morning, many people rely on a particular appliance to kickstart their day with a fresh brew. What essential appliance can make a morning cup of coffee?",
+    "answer": "The 'coffee maker' can brew a fresh cup of coffee to help kickstart your morning."
+  },
+  {
+    "scene_id": "scene0479_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "dish rack",
+    "question": "After washing dishes, where can one place the dishes to dry efficiently?",
+    "answer": "The 'dish rack' can be placed to allow dishes to air dry efficiently after washing."
+  },
+  {
+    "scene_id": "scene0682_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "dish rack",
+    "question": "After washing dishes, where can one place the dishes to dry in an organized manner?",
+    "answer": "The 'dish rack' can be used to place washed dishes for organized drying."
+  },
+  {
+    "scene_id": "scene0439_00",
+    "type": "scannet-1object",
+    "object_id_1": "21,26",
+    "object_id_1_name": "dish rack",
+    "question": "After washing dishes, where can one place the dishes to dry efficiently and neatly?",
+    "answer": "The 'dish rack' can be placed to allow dishes to air dry efficiently and neatly after washing."
+  },
+  {
+    "scene_id": "scene0012_00",
+    "type": "scannet-1object",
+    "object_id_1": "3,4,5,6",
+    "object_id_1_name": "armchair",
+    "question": "Where can someone sit comfortably to relax and read a book?",
+    "answer": "The 'armchair' provides a comfortable seat for relaxing and reading a book."
+  },
+  {
+    "scene_id": "scene0134_00",
+    "type": "scannet-1object",
+    "object_id_1": "6,7,8,9",
+    "object_id_1_name": "armchair",
+    "question": "Where might one choose to sit and relax while enjoying a cup of tea and a good book?",
+    "answer": "The 'armchair' provides a comfortable spot for sitting and relaxing with a cup of tea and a good book."
+  },
+  {
+    "scene_id": "scene0543_00",
+    "question": " In a cozy living room setting, where would you expect someone to relax and read a book comfortably in the scene? ",
+    "answer": "The 'armchair' is typically placed in a cozy corner of the living room, providing a comfortable spot for someone to relax and read a book.",
+    "type": "scannet-1object",
+    "object_id_1": "4,5",
+    "object_id_1_name": "armchair"
+  },
+  {
+    "scene_id": "scene0183_00",
+    "question": " If someone wants to enjoy a cozy evening with a good book and a warm drink, where in the scene could they place their book and cup for easy access while sitting comfortably on the couch? ",
+    "answer": "The 'coffee table' can be used to place a book and a warm drink within easy reach while sitting on the couch for a cozy evening.",
+    "type": "scannet-1object",
+    "object_id_1": 2,
+    "object_id_1_name": "coffee table"
+  },
+  {
+    "scene_id": "scene0012_00",
+    "type": "scannet-1object",
+    "object_id_1": 9,
+    "object_id_1_name": "coffee table",
+    "question": "Where can one typically find a place to put down drinks, snacks, or magazines while relaxing?",
+    "answer": "The 'coffee table' is typically placed to provide a convenient surface for setting down drinks, snacks, or magazines while relaxing."
+  },
+  {
+    "scene_id": "scene0318_00",
+    "question": " In a cozy living room setting, where can one place snacks, drinks, or decorative items for easy access while sitting on the nearby chair or armchair? ",
+    "answer": "The 'coffee table' can be used to place snacks, drinks, or decorative items for easy access while sitting on the nearby chair or armchair.",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "coffee table"
+  },
+  {
+    "scene_id": "scene0235_00",
+    "type": "scannet-1object",
+    "object_id_1": "23,35",
+    "object_id_1_name": "picture",
+    "question": "What decorative item, typically hung on walls, adds a personal artistic touch and enhances the ambiance?",
+    "answer": "The 'picture', typically hung on walls, adds a personal artistic touch and enhances the ambiance with its visual appeal."
+  },
+  {
+    "scene_id": "scene0252_00",
+    "question": " When decorating a room, people often hang up artwork or photographs to add personality and style. What item in the scene serves this purpose by adding visual interest to the wall? ",
+    "answer": "The 'picture' can be hung on the wall to add visual interest and personalize the room during decoration.",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "picture"
+  },
+  {
+    "scene_id": "scene0273_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "picture",
+    "question": "What decorative item adds a personal touch and enhances the aesthetic appeal?",
+    "answer": "The 'picture' adds a personal touch and enhances the aesthetic appeal by displaying artwork or photographs that reflect the homeowner's style."
+  },
+  {
+    "scene_id": "scene0248_00",
+    "question": " In a multi-story building, what architectural element in the scene provides a means of vertical circulation between different levels? ",
+    "answer": "The 'stairs' in this scene provide a means of vertical circulation between different levels in the multi-story building.",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "stairs"
+  },
+  {
+    "scene_id": "scene0646_00",
+    "question": " In a multi-story building, what architectural feature in the scene provides access to different levels of the building for people to move between floors? ",
+    "answer": "The 'stairs' provide access to different levels of the building, allowing people to move between floors.",
+    "type": "scannet-1object",
+    "object_id_1": 40,
+    "object_id_1_name": "stairs"
+  },
+  {
+    "scene_id": "scene0340_00",
+    "type": "scannet-1object",
+    "object_id_1": 9,
+    "object_id_1_name": "tv",
+    "question": "After a long day of sightseeing, a guest might want to relax and unwind by watching their favorite shows or movies. What item can provide entertainment?",
+    "answer": "The 'tv' can provide entertainment by allowing them to watch their favorite shows or movies to relax and unwind."
+  },
+  {
+    "scene_id": "scene0189_00",
+    "type": "scannet-1object",
+    "object_id_1": "14,15",
+    "object_id_1_name": "tv",
+    "question": "What object might be used for displaying presentations or video conferences during meetings?",
+    "answer": "The 'tv' can be used to display presentations or video conferences during meetings."
+  },
+  {
+    "scene_id": "scene0132_00",
+    "question": " In a modern living room, what object in the scene is commonly used for entertainment purposes, such as watching movies or shows? ",
+    "answer": "The 'tv' is commonly used for entertainment purposes, such as watching movies or shows, in a modern living room.",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "tv"
+  },
+  {
+    "scene_id": "scene0455_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "backpack",
+    "question": "Students often carry their essential items like books and stationery in a portable storage item. What object could be used to carry their belongings?",
+    "answer": "The 'backpack' can be used to carry books and stationery."
+  },
+  {
+    "scene_id": "scene0374_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "backpack",
+    "question": "Where would you typically not expect to find a personal item like a backpack?",
+    "answer": "You would not typically expect to find a 'backpack' on the fireplace mantel, as it is usually reserved for decorative items."
+  },
+  {
+    "scene_id": "scene0624_00",
+    "type": "scannet-1object",
+    "object_id_1": 33,
+    "object_id_1_name": "backpack",
+    "question": "Students often carry their belongings with them. What object is commonly used to store their books, notebooks, and other school supplies?",
+    "answer": "The 'backpack' is commonly used to store books, notebooks, and other school supplies."
+  },
+  {
+    "scene_id": "scene0180_00",
+    "question": " In an office setting, what object in the scene can be used for brainstorming, writing down ideas, or presenting information during meetings? ",
+    "answer": "The 'whiteboard' can be used for brainstorming, writing down ideas, or presenting information during meetings in an office setting.",
+    "type": "scannet-1object",
+    "object_id_1": 30,
+    "object_id_1_name": "whiteboard"
+  },
+  {
+    "scene_id": "scene0388_00",
+    "question": " In a classroom setting, what object in the scene can be used by the teacher to write down information, draw diagrams, or explain concepts to the students? ",
+    "answer": "The 'whiteboard' can be used by the teacher to write down information, draw diagrams, or explain concepts to students in the classroom.",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "whiteboard"
+  },
+  {
+    "scene_id": "scene0171_00",
+    "question": " In a classroom setting, what object in the scene is commonly used by teachers to write down notes, draw diagrams, or illustrate concepts for students during a lesson? ",
+    "answer": "The 'whiteboard' is commonly used by teachers to write notes, draw diagrams, or illustrate concepts for students during a lesson in a classroom.",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "whiteboard"
+  },
+  {
+    "scene_id": "scene0637_00",
+    "type": "scannet-1object",
+    "object_id_1": 7,
+    "object_id_1_name": "radiator",
+    "question": "During the cold winter months, what object can provide warmth and help regulate the temperature?",
+    "answer": "The 'radiator' can provide warmth and help regulate the temperature by emitting heat during the cold winter months."
+  },
+  {
+    "scene_id": "scene0364_00",
+    "question": " In a cold winter night, what object in the room can provide warmth and keep the room cozy? ",
+    "answer": "The 'radiator' can provide warmth and keep the room cozy by emitting heat during a cold winter night.",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "radiator"
+  },
+  {
+    "scene_id": "scene0162_00",
+    "question": " In colder weather, what object in the scene is commonly used to provide warmth in a room by circulating hot water or steam through it? ",
+    "answer": "The 'radiator' provides warmth in a room by circulating hot water or steam through it during colder weather.",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "radiator"
+  },
+  {
+    "scene_id": "scene0312_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "tv stand",
+    "question": "Where can one typically find a piece of furniture designed to hold a television and other media equipment?",
+    "answer": "The 'tv stand' is typically placed against a wall to hold a television and media equipment."
+  },
+  {
+    "scene_id": "scene0107_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "tv stand",
+    "question": "Where can one typically find the television placed for guests to enjoy watching their favorite shows or movies?",
+    "answer": "The 'tv stand' is typically placed to hold the television for guests to watch shows or movies."
+  },
+  {
+    "scene_id": "scene0327_00",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "tv stand",
+    "question": "In a modern setup, where is the common placement for the television to be displayed?",
+    "answer": "The 'tv stand' is commonly placed against a wall to support and display the television at an optimal viewing height."
+  },
+  {
+    "scene_id": "scene0335_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "stove",
+    "question": "Where can one cook meals by using pots and pans over a heat source?",
+    "answer": "The 'stove' provides a heat source where one can cook meals using pots and pans."
+  },
+  {
+    "scene_id": "scene0151_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "stove",
+    "question": "In a cozy setting, what object could be used to prepare warm meals or snacks for a gathering with friends or family?",
+    "answer": "The 'stove' can be used to cook warm meals or snacks for a gathering with friends or family."
+  },
+  {
+    "scene_id": "scene0214_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "stove",
+    "question": "Where would one typically cook food by applying heat in this scene?",
+    "answer": "The 'stove' is typically used to cook food by applying heat to pots and pans."
+  },
+  {
+    "scene_id": "scene0532_00",
+    "type": "scannet-1object",
+    "object_id_1": 18,
+    "object_id_1_name": "power outlet",
+    "question": "Where appliances like blenders, toasters, and coffee makers are used frequently, what object is essential for providing electricity to power these devices?",
+    "answer": "The 'power outlet' is essential for providing electricity to power appliances like blenders, toasters, and coffee makers."
+  },
+  {
+    "scene_id": "scene0289_00",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "power outlet",
+    "question": "Imagine the teacher is about to start a multimedia presentation. What object can be used to connect electronic devices for the presentation?",
+    "answer": "The 'power outlet' can be used to plug in a projector or laptop to power the multimedia presentation."
+  },
+  {
+    "scene_id": "scene0047_00",
+    "type": "scannet-1object",
+    "object_id_1": 37,
+    "object_id_1_name": "power outlet",
+    "question": "Where can one conveniently plug in appliances like a toaster, blender, or coffee maker for easy access to power?",
+    "answer": "The 'power outlet' is typically installed on a wall or countertop, allowing you to plug in appliances like a toaster or blender for easy power access."
+  },
+  {
+    "scene_id": "scene0582_00",
+    "type": "scannet-1object",
+    "object_id_1": "2,3",
+    "object_id_1_name": "book",
+    "question": "Imagine someone is looking for a specific novel among various items. Which item could they potentially pick up and read to enjoy a story or gain knowledge?",
+    "answer": "The 'book' can be picked up and read to enjoy a story or gain knowledge from its pages."
+  },
+  {
+    "scene_id": "scene0183_00",
+    "question": " After a long day at work, someone is relaxing on the couch with a warm drink. What item in the scene might they be enjoying, along with their beverage? ",
+    "answer": "The 'book' can be enjoyed for reading while relaxing on the couch with a warm drink after a long day at work.",
+    "type": "scannet-1object",
+    "object_id_1": 8,
+    "object_id_1_name": "book"
+  },
+  {
+    "scene_id": "scene0179_00",
+    "type": "scannet-1object",
+    "object_id_1": 10,
+    "object_id_1_name": "book",
+    "question": "Among various sources of knowledge and entertainment, what item can offer a person a journey into a different world through storytelling or information?",
+    "answer": "The 'book' can offer a journey into a different world through its storytelling or information."
+  },
+  {
+    "scene_id": "scene0327_00",
+    "type": "scannet-1object",
+    "object_id_1": 36,
+    "object_id_1_name": "couch",
+    "question": "In a cozy family gathering, where do people usually sit to relax and chat after a meal?",
+    "answer": "People typically sit on the 'couch' to relax and chat after a meal."
+  },
+  {
+    "scene_id": "scene0036_00",
+    "type": "scannet-1object",
+    "object_id_1": "2,3,7",
+    "object_id_1_name": "couch",
+    "question": "Where would you typically find a comfortable seating option for relaxation and socializing with guests?",
+    "answer": "The 'couch' is typically placed to provide comfortable seating for relaxation and socializing with guests."
+  },
+  {
+    "scene_id": "scene0201_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "couch",
+    "question": "What comfortable furniture piece, typically upholstered, provides casual seating for quick meals or relaxation?",
+    "answer": "The 'couch' offers comfortable, upholstered seating for quick meals or relaxation."
+  },
+  {
+    "scene_id": "scene0479_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "recycling bin",
+    "question": "Where can one dispose of items such as paper, glass, and plastic for recycling purposes?",
+    "answer": "The 'recycling bin' is the designated place for disposing of paper, glass, and plastic items for recycling."
+  },
+  {
+    "scene_id": "scene0478_00",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "recycling bin",
+    "question": "What object encourages employees to dispose of paper, plastic, and other recyclable items properly?",
+    "answer": "The 'recycling bin' encourages employees to properly dispose of paper, plastic, and other recyclable items."
+  },
+  {
+    "scene_id": "scene0298_00",
+    "question": " In an eco-friendly office setting, where can employees dispose of paper, plastic, and other recyclable materials in the scene? ",
+    "answer": "Employees can dispose of paper, plastic, and other recyclable materials in the 'recycling bin' to support eco-friendly practices in the office.",
+    "type": "scannet-1object",
+    "object_id_1": "6,7",
+    "object_id_1_name": "recycling bin"
+  },
+  {
+    "scene_id": "scene0577_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "bed",
+    "question": "What object serves as the primary furniture piece for relaxation and sleep?",
+    "answer": "The 'bed' serves as the primary furniture piece for relaxation and sleep."
+  },
+  {
+    "scene_id": "scene0438_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "bed",
+    "question": "After a long day of traveling, what object would you be most likely to use for a good night's rest?",
+    "answer": "The 'bed' is the object you would use to lie down and sleep for a good night's rest."
+  },
+  {
+    "scene_id": "scene0613_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "bed",
+    "question": "Where space is limited, what furniture piece serves a dual purpose by providing a place to sleep and also offering storage for clothes and other items underneath?",
+    "answer": "The 'bed' serves as a sleeping area and provides storage space for clothes and other items underneath it."
+  },
+  {
+    "scene_id": "scene0107_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "suitcase",
+    "question": "Imagine someone arriving and needing a portable container to neatly store their clothes and personal items during their stay. Which object serves this purpose?",
+    "answer": "The 'suitcase' can be used as a portable container to neatly store clothes and personal items."
+  },
+  {
+    "scene_id": "scene0416_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "suitcase",
+    "question": "Imagine someone checking out. Which item would they most likely use to pack and carry their clothes, toiletries, and personal items?",
+    "answer": "The 'suitcase' is ideal for packing and carrying clothes, toiletries, and personal items."
+  },
+  {
+    "scene_id": "scene0280_00",
+    "question": " While unpacking after a trip, you notice a missing item. What object in the scene could potentially hold your clothes and belongings for travel? ",
+    "answer": "The 'suitcase' can hold your clothes and belongings for travel, making it ideal for packing and unpacking after a trip.",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "suitcase"
+  },
+  {
+    "scene_id": "scene0517_00",
+    "type": "scannet-1object",
+    "object_id_1": "5,52",
+    "object_id_1_name": "laundry hamper",
+    "question": "Where can one store dirty clothes before they are washed?",
+    "answer": "The 'laundry hamper' can be used to store dirty clothes before washing them."
+  },
+  {
+    "scene_id": "scene0516_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "laundry hamper",
+    "question": "In a household with multiple family members, where can dirty clothes be stored before being taken for washing?",
+    "answer": "The 'laundry hamper' can be used to store dirty clothes before they are taken for washing."
+  },
+  {
+    "scene_id": "scene0521_00",
+    "type": "scannet-1object",
+    "object_id_1": 9,
+    "object_id_1_name": "laundry hamper",
+    "question": "In a well-organized space, where can one find a designated spot to store dirty clothes until they are ready for laundry?",
+    "answer": "The 'laundry hamper' serves as the designated spot to store dirty clothes until laundry day."
+  },
+  {
+    "scene_id": "scene0060_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "copier",
+    "question": "When employees need to make multiple copies of a document for distribution, what machine can they use for this purpose?",
+    "answer": "The 'copier' can be used to make multiple copies of documents for distribution."
+  },
+  {
+    "scene_id": "scene0104_00",
+    "type": "scannet-1object",
+    "object_id_1": "2,23",
+    "object_id_1_name": "copier",
+    "question": "When employees need to make copies of important documents, which object would they likely use for this purpose?",
+    "answer": "The 'copier' is used by employees to make copies of important documents."
+  },
+  {
+    "scene_id": "scene0511_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "copier",
+    "question": "When employees need to make copies of important documents, what equipment can they use for this task?",
+    "answer": "The 'copier' can be used by employees to make copies of important documents."
+  },
+  {
+    "scene_id": "scene0534_00",
+    "type": "scannet-1object",
+    "object_id_1": "15,17,25,26",
+    "object_id_1_name": "bulletin board",
+    "question": "Where can employees find important announcements, memos, and notices displayed for everyone to see and refer to?",
+    "answer": "Employees can find important announcements, memos, and notices displayed on the 'bulletin board' for easy visibility and reference."
+  },
+  {
+    "scene_id": "scene0596_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "bulletin board",
+    "question": "Where can employees find important announcements, notices, and memos displayed for everyone to see and refer to?",
+    "answer": "Employees can find important announcements, notices, and memos displayed on the 'bulletin board' for everyone to see and refer to."
+  },
+  {
+    "scene_id": "scene0694_00",
+    "type": "scannet-1object",
+    "object_id_1": 36,
+    "object_id_1_name": "bulletin board",
+    "question": "Where can employees often find important notices, memos, and announcements posted for everyone to see and refer to?",
+    "answer": "Employees can often find important notices, memos, and announcements posted on the 'bulletin board' for everyone to see and refer to."
+  },
+  {
+    "scene_id": "scene0301_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "ottoman",
+    "question": "Where can someone put their feet up and relax while sitting on the couch?",
+    "answer": "The 'ottoman' can be used as a footrest to put your feet up and relax while sitting on the couch."
+  },
+  {
+    "scene_id": "scene0694_00",
+    "type": "scannet-1object",
+    "object_id_1": "8,9",
+    "object_id_1_name": "ottoman",
+    "question": "What soft, upholstered furniture piece is specifically designed to comfortably rest feet or serve as a casual surface for snacks or drinks while seated?",
+    "answer": "The 'ottoman' is a soft, upholstered furniture piece designed to comfortably rest feet or serve as a casual surface for snacks or drinks while seated."
+  },
+  {
+    "scene_id": "scene0061_00",
+    "type": "scannet-1object",
+    "object_id_1": "15,16",
+    "object_id_1_name": "ottoman",
+    "question": "Where can someone put their feet up and relax after a long day?",
+    "answer": "The 'ottoman' can be used as a footrest to put your feet up and relax after a long day."
+  },
+  {
+    "scene_id": "scene0209_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "mini fridge",
+    "question": "Imagine someone wanting a cold drink without having to leave. What object can they use to keep beverages chilled and easily accessible?",
+    "answer": "The 'mini fridge' can be used to keep beverages chilled and easily accessible for someone wanting a cold drink without leaving."
+  },
+  {
+    "scene_id": "scene0642_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "mini fridge",
+    "question": "Imagine someone staying for a few days. Where could they store cold beverages and snacks for easy access during their stay?",
+    "answer": "The 'mini fridge' can be used to store cold beverages and snacks for easy access during their stay."
+  },
+  {
+    "scene_id": "scene0016_00",
+    "type": "scannet-1object",
+    "object_id_1": 42,
+    "object_id_1_name": "mini fridge",
+    "question": "Imagine you are feeling a bit hungry. What convenient appliance could you use to grab a cold drink or a snack without having to go elsewhere?",
+    "answer": "The 'mini fridge' can be used to grab a cold drink or a snack conveniently without leaving."
+  },
+  {
+    "scene_id": "scene0687_00",
+    "type": "scannet-1object",
+    "object_id_1": 31,
+    "object_id_1_name": "water cooler",
+    "question": "Where can employees go to get a refreshing drink of cold water?",
+    "answer": "Employees can get a refreshing drink of cold water from the 'water cooler'."
+  },
+  {
+    "scene_id": "scene0436_00",
+    "type": "scannet-1object",
+    "object_id_1": 10,
+    "object_id_1_name": "water cooler",
+    "question": "Staying hydrated is crucial for maintaining focus and productivity. What object can provide a convenient source of drinking water for the employees?",
+    "answer": "The 'water cooler' provides a convenient source of drinking water for employees to stay hydrated."
+  },
+  {
+    "scene_id": "scene0059_00",
+    "type": "scannet-1object",
+    "object_id_1": 30,
+    "object_id_1_name": "water cooler",
+    "question": "Where can employees gather to chat and take short breaks while hydrating themselves?",
+    "answer": "The 'water cooler' serves as a common spot where employees can gather to chat and take short breaks while staying hydrated."
+  },
+  {
+    "scene_id": "scene0111_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "bowl",
+    "question": "Where can one typically find a container used for mixing ingredients or serving food like soup or cereal?",
+    "answer": "The 'bowl' is typically found on a countertop or in a cabinet, ready for mixing ingredients or serving food like soup or cereal."
+  },
+  {
+    "scene_id": "scene0517_00",
+    "type": "scannet-1object",
+    "object_id_1": 33,
+    "object_id_1_name": "bowl",
+    "question": "After a long day, someone might want to relax with a snack. What object in the scene could be used to hold popcorn or chips for a cozy movie night?",
+    "answer": "The 'bowl' can hold popcorn or chips for a cozy movie night, making it easy to snack while relaxing."
+  },
+  {
+    "scene_id": "scene0547_00",
+    "type": "scannet-1object",
+    "object_id_1": 46,
+    "object_id_1_name": "bowl",
+    "question": "After a long day, a person might prepare a quick meal. Which object in the scene could be used to hold a serving of soup or cereal for a relaxing meal?",
+    "answer": "The 'bowl' can hold a serving of soup or cereal for a quick, relaxing meal."
+  },
+  {
+    "scene_id": "scene0614_00",
+    "type": "scannet-1object",
+    "object_id_1": 39,
+    "object_id_1_name": "clock",
+    "question": "In a busy environment, keeping track of time is crucial for meetings and deadlines. What object in the scene can help people stay punctual and organized throughout the day?",
+    "answer": "The 'clock' helps people stay punctual and organized by displaying the current time for scheduling meetings and deadlines."
+  },
+  {
+    "scene_id": "scene0628_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "clock",
+    "question": "In a setting, what object in the scene helps people keep track of time during lessons and exams?",
+    "answer": "The 'clock' helps people keep track of time during lessons and exams."
+  },
+  {
+    "scene_id": "scene0000_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "clock",
+    "question": "As a time-conscious student preparing for an important exam, which object in the scene can help you keep track of time and ensure you stick to your study schedule effectively?",
+    "answer": "The 'clock' can help you monitor your study time and adhere to your exam preparation schedule effectively."
+  },
+  {
+    "scene_id": "scene0335_00",
+    "type": "scannet-1object",
+    "object_id_1": 49,
+    "object_id_1_name": "dustpan",
+    "question": "After cooking a meal, there might be some food crumbs or spills on the floor. What tool in the scene can be used to sweep and collect these small messes efficiently?",
+    "answer": "The 'dustpan' can be used with a broom to sweep up food crumbs and spills efficiently after cooking."
+  },
+  {
+    "scene_id": "scene0240_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "dustpan",
+    "question": "Suppose you are a cleaning robot. What tool in this scene would you use to sweep up small debris and dust from the floor efficiently?",
+    "answer": "The 'dustpan' can be used by the cleaning robot to efficiently collect small debris and dust swept from the floor."
+  },
+  {
+    "scene_id": "scene0404_00",
+    "question": " After sweeping the floor, what tool in the scene can be used to gather and collect the dirt and debris for disposal? ",
+    "answer": "The 'dustpan' is used to gather and collect the dirt and debris from the floor for disposal after sweeping.",
+    "type": "scannet-1object",
+    "object_id_1": 34,
+    "object_id_1_name": "dustpan"
+  },
+  {
+    "scene_id": "scene0240_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "calendar",
+    "question": "In a setting, what item in the scene can help people keep track of important dates, deadlines, and appointments?",
+    "answer": "The 'calendar' helps people keep track of important dates, deadlines, and appointments."
+  },
+  {
+    "scene_id": "scene0464_00",
+    "type": "scannet-1object",
+    "object_id_1": 41,
+    "object_id_1_name": "calendar",
+    "question": "In a setting, keeping track of important dates and deadlines is crucial for productivity. What object in the scene can help people stay organized by displaying dates, months, and events?",
+    "answer": "The 'calendar' can help people stay organized by displaying dates, months, and events."
+  },
+  {
+    "scene_id": "scene0201_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "calendar",
+    "question": "In a busy household, keeping track of important dates and appointments is crucial. What object can help the family stay organized by displaying dates and schedules?",
+    "answer": "The 'calendar' can help the family stay organized by displaying important dates and schedules."
+  },
+  {
+    "scene_id": "scene0136_00",
+    "type": "scannet-1object",
+    "object_id_1": 33,
+    "object_id_1_name": "paper cutter",
+    "question": "When there is a need to precisely cut paper or documents, what tool can be used for this task?",
+    "answer": "The 'paper cutter' can be used to precisely cut paper or documents."
+  },
+  {
+    "scene_id": "scene0205_00",
+    "type": "scannet-1object",
+    "object_id_1": 7,
+    "object_id_1_name": "paper cutter",
+    "question": "Employees often need to trim documents or materials precisely. What tool can be used for cutting paper accurately and efficiently?",
+    "answer": "The 'paper cutter' can be used to trim documents or materials accurately and efficiently."
+  },
+  {
+    "scene_id": "scene0060_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "paper cutter",
+    "question": "When there is a need to precisely trim printed documents or materials, what tool can be used for this task?",
+    "answer": "The 'paper cutter' can be used to precisely trim printed documents or materials."
+  },
+  {
+    "scene_id": "scene0457_00",
+    "question": " When trying to add a personal touch to a room, what object in the scene serves solely ornamental purposes, specifically intended to enhance aesthetic appeal? ",
+    "answer": "The 'decoration' serves solely ornamental purposes to enhance the room's aesthetic appeal by adding a personal touch.",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "decoration"
+  },
+  {
+    "scene_id": "scene0282_00",
+    "question": " When trying to create a cozy and welcoming atmosphere, what purely ornamental item in the scene can be strategically placed to enhance the aesthetic appeal without serving any additional practical function? ",
+    "answer": "The 'decoration' can be strategically placed on a shelf or table to enhance the aesthetic appeal and create a cozy, welcoming atmosphere.",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "decoration"
+  },
+  {
+    "scene_id": "scene0397_00",
+    "type": "scannet-1object",
+    "object_id_1": 9,
+    "object_id_1_name": "decoration",
+    "question": "What item is specifically designed for purely ornamental purposes, providing visual appeal without additional practical use?",
+    "answer": "The 'decoration' is specifically designed for purely ornamental purposes, providing visual appeal without additional practical use."
+  },
+  {
+    "scene_id": "scene0152_00",
+    "question": " In a room with limited space, what object in the scene serves as a structural boundary and provides support for hanging artworks or shelves? ",
+    "answer": "The 'wall' serves as a structural boundary and provides support for hanging artworks or shelves in a room with limited space.",
+    "type": "scannet-1object",
+    "object_id_1": "1,2,3,4,21,22,24,25",
+    "object_id_1_name": "wall"
+  },
+  {
+    "scene_id": "scene0133_00",
+    "question": " In a room with limited space, what object in the scene serves as a vertical structure to separate the interior from the exterior and provides support for other objects such as shelves and artwork? ",
+    "answer": "The 'wall' serves as a vertical structure to separate the interior from the exterior and provides support for shelves and artwork in a room with limited space.",
+    "type": "scannet-1object",
+    "object_id_1": "0,6,7,8,9,10,13,16,17,19",
+    "object_id_1_name": "wall"
+  },
+  {
+    "scene_id": "scene0386_00",
+    "question": " In a classroom setting, where can students often find useful information, notes, or diagrams displayed for reference during lessons? ",
+    "answer": "The 'wall' often displays useful information, notes, or diagrams for students to reference during lessons in a classroom.",
+    "type": "scannet-1object",
+    "object_id_1": "4,5,18,19,20,21,25",
+    "object_id_1_name": "wall"
+  },
+  {
+    "scene_id": "scene0145_00",
+    "question": " When the sun shines too brightly into a room, what object in the scene can be adjusted to control the amount of light entering the room? ",
+    "answer": "The 'blinds' can be adjusted to block or filter the sunlight, reducing glare and controlling the light entering the room.",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "blinds"
+  },
+  {
+    "scene_id": "scene0613_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "blinds",
+    "question": "What item can be adjusted to control the amount of natural light and provide privacy when needed?",
+    "answer": "The 'blinds' can be adjusted to control the amount of natural light and provide privacy when needed."
+  },
+  {
+    "scene_id": "scene0004_00",
+    "question": " When the sun is shining too brightly into a room, what object in the scene can be adjusted to control the amount of light coming in? ",
+    "answer": "The 'blinds' can be adjusted to block or filter the sunlight, reducing glare and controlling the light entering the room.",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "blinds"
+  },
+  {
+    "scene_id": "scene0428_00",
+    "type": "scannet-1object",
+    "object_id_1": 28,
+    "object_id_1_name": "mirror",
+    "question": "Dancers often use a reflective surface to check their form and movements. What object serves this purpose?",
+    "answer": "The 'mirror' allows dancers to observe and correct their form and movements during practice."
+  },
+  {
+    "scene_id": "scene0659_00",
+    "question": " In a small bathroom, what object in the scene can create an illusion of more space and light by reflecting the surroundings? ",
+    "answer": "The 'mirror' can create an illusion of more space and light in a small bathroom by reflecting the surroundings.",
+    "type": "scannet-1object",
+    "object_id_1": 10,
+    "object_id_1_name": "mirror"
+  },
+  {
+    "scene_id": "scene0042_00",
+    "type": "scannet-1object",
+    "object_id_1": 8,
+    "object_id_1_name": "mirror",
+    "question": "What object is commonly used for checking one's appearance or adjusting clothing before leaving?",
+    "answer": "The 'mirror' is commonly used for checking one's appearance or adjusting clothing before leaving."
+  },
+  {
+    "scene_id": "scene0184_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "alarm clock",
+    "question": "What object is commonly used to wake someone up at a specific time in the morning?",
+    "answer": "The 'alarm clock' is commonly used to wake someone up at a specific time in the morning."
+  },
+  {
+    "scene_id": "scene0679_00",
+    "type": "scannet-1object",
+    "object_id_1": 28,
+    "object_id_1_name": "alarm clock",
+    "question": "If a guest needs to wake up early for a morning meeting, what object can they set to ring at a specific time to ensure they wake up on time?",
+    "answer": "The 'alarm clock' can be set to ring at a specific time to wake the guest up early for their morning meeting."
+  },
+  {
+    "scene_id": "scene0085_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "alarm clock",
+    "question": "What object in the scene is commonly used to wake someone up at a specific time in the morning?",
+    "answer": "The 'alarm clock' is commonly used to wake someone up at a specific time in the morning by sounding an alarm."
+  },
+  {
+    "scene_id": "scene0586_00",
+    "question": " If someone wants to have a quick breakfast in the morning, what object in the scene can be used to toast bread efficiently? ",
+    "answer": "The 'toaster' can be used to quickly toast bread for a fast breakfast in the morning.",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "toaster"
+  },
+  {
+    "scene_id": "scene0097_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "toaster",
+    "question": "Breakfast is an important meal of the day, and many people enjoy having toast in the morning. What appliance in the scene can be used to make toast quickly and efficiently?",
+    "answer": "The 'toaster' can be used to make toast quickly and efficiently for breakfast."
+  },
+  {
+    "scene_id": "scene0000_00",
+    "type": "scannet-1object",
+    "object_id_1": 53,
+    "object_id_1_name": "toaster",
+    "question": "When preparing breakfast in the morning, what appliance in the scene can be used to toast bread quickly and efficiently?",
+    "answer": "The 'toaster' can be used to toast bread quickly and efficiently for breakfast in the morning."
+  },
+  {
+    "scene_id": "scene0097_00",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "coffee kettle",
+    "question": "In a busy morning rush before work, one might need a quick caffeine fix. What item from the scene is specifically designed for boiling water to manually prepare coffee?",
+    "answer": "The 'coffee kettle' is specifically designed for boiling water to manually prepare coffee, providing a quick caffeine fix during a busy morning rush."
+  },
+  {
+    "scene_id": "scene0347_00",
+    "question": " In a busy morning, many people rely on a hot beverage to kickstart their day. What item in the scene can be used to boil water for making a morning cup of coffee or tea? ",
+    "answer": "The 'coffee kettle' can be used to boil water for making a morning cup of coffee or tea.",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "coffee kettle"
+  },
+  {
+    "scene_id": "scene0409_00",
+    "type": "scannet-1object",
+    "object_id_1": 27,
+    "object_id_1_name": "coffee kettle",
+    "question": "In a cozy setting, what item in the scene is commonly used to heat water for brewing a warm and comforting beverage?",
+    "answer": "The 'coffee kettle' is commonly used to heat water for brewing coffee or tea."
+  },
+  {
+    "scene_id": "scene0185_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "projector",
+    "question": "What device in the scene is commonly used to display visual aids such as slideshows, videos, and presentations to the students?",
+    "answer": "The 'projector' is commonly used to display visual aids like slideshows, videos, and presentations to the students."
+  },
+  {
+    "scene_id": "scene0302_00",
+    "type": "scannet-1object",
+    "object_id_1": 2,
+    "object_id_1_name": "projector",
+    "question": "What device in the scene can be used to display visual content such as slideshows, videos, and presentations onto a screen or wall?",
+    "answer": "The 'projector' can display visual content like slideshows, videos, and presentations onto a screen or wall."
+  },
+  {
+    "scene_id": "scene0584_00",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "projector",
+    "question": "In a modern setting, what device in the scene can be used to display presentations, videos, or other visual content on a large screen for everyone to see?",
+    "answer": "The 'projector' can display presentations, videos, and other visual content on a large screen for all attendees."
+  },
+  {
+    "scene_id": "scene0420_00",
+    "type": "scannet-1object",
+    "object_id_1": "20,21",
+    "object_id_1_name": "blackboard",
+    "question": "Where can the teacher write down notes, draw diagrams, or solve problems for students to see in this scene?",
+    "answer": "The 'blackboard' provides a surface where the teacher can write notes, draw diagrams, or solve problems for students to see clearly."
+  },
+  {
+    "scene_id": "scene0628_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "blackboard",
+    "question": "Where would the teacher typically write down important information, draw diagrams, or solve math problems for the students to see?",
+    "answer": "The teacher would typically write important information, draw diagrams, or solve math problems on the 'blackboard' for students to see."
+  },
+  {
+    "scene_id": "scene0041_00",
+    "type": "scannet-1object",
+    "object_id_1": "9,16",
+    "object_id_1_name": "blackboard",
+    "question": "What object in the scene is typically used by teachers to write and illustrate lessons for students?",
+    "answer": "The 'blackboard' is typically used by teachers to write and illustrate lessons for students."
+  },
+  {
+    "scene_id": "scene0009_00",
+    "question": " In a public restroom, after washing hands, people often need to dry them before leaving. What object in the scene provides a convenient way to dry hands? ",
+    "answer": "The 'paper towel dispenser' provides a convenient way to dry hands after washing in a public restroom.",
+    "type": "scannet-1object",
+    "object_id_1": "12,13,18",
+    "object_id_1_name": "paper towel dispenser"
+  },
+  {
+    "scene_id": "scene0245_00",
+    "type": "scannet-1object",
+    "object_id_1": 43,
+    "object_id_1_name": "paper towel dispenser",
+    "question": "What object in the scene is typically used to provide students with a means to clean up spills or dry their hands?",
+    "answer": "The 'paper towel dispenser' provides students with paper towels to clean up spills or dry their hands."
+  },
+  {
+    "scene_id": "scene0579_00",
+    "question": " In a public restroom, after washing hands, what object in the scene can be used to dry hands efficiently? ",
+    "answer": "The 'paper towel dispenser' provides clean, disposable towels for efficiently drying your hands after washing them in a public restroom.",
+    "type": "scannet-1object",
+    "object_id_1": "9,10",
+    "object_id_1_name": "paper towel dispenser"
+  },
+  {
+    "scene_id": "scene0112_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "toilet paper dispenser",
+    "question": "What object in the scene provides a convenient way for people to access toilet paper for personal hygiene?",
+    "answer": "The 'toilet paper dispenser' provides a convenient way for people to access toilet paper for personal hygiene."
+  },
+  {
+    "scene_id": "scene0254_00",
+    "type": "scannet-1object",
+    "object_id_1": "10,11",
+    "object_id_1_name": "toilet paper dispenser",
+    "question": "Which wall-mounted object in the scene specifically provides hygiene-related paper products essential after using the toilet?",
+    "answer": "The 'toilet paper dispenser' provides hygiene-related paper products essential after using the toilet."
+  },
+  {
+    "scene_id": "scene0090_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "toilet paper dispenser",
+    "question": "What object in the scene is essential for providing toilet paper for individuals using the facilities?",
+    "answer": "The 'toilet paper dispenser' is essential for providing toilet paper to individuals."
+  },
+  {
+    "scene_id": "scene0370_00",
+    "type": "scannet-1object",
+    "object_id_1": 18,
+    "object_id_1_name": "water bottle",
+    "question": "Imagine you suddenly feel thirsty. What item in the scene can you reach for to quench your thirst?",
+    "answer": "The 'water bottle' can be reached for to quench your thirst by drinking from it."
+  },
+  {
+    "scene_id": "scene0098_00",
+    "type": "scannet-1object",
+    "object_id_1": 35,
+    "object_id_1_name": "water bottle",
+    "question": "Staying hydrated is important for maintaining focus and productivity. What item in the scene can be used to hold and drink water throughout the workday?",
+    "answer": "The 'water bottle' can be used to hold and drink water throughout the workday, helping you stay hydrated and focused."
+  },
+  {
+    "scene_id": "scene0108_00",
+    "question": " During a long study session or work period, it's important to stay hydrated. What item in the scene can help someone quench their thirst without having to leave their desk? ",
+    "answer": "The 'water bottle' allows you to stay hydrated during a long study session without needing to leave your desk.",
+    "type": "scannet-1object",
+    "object_id_1": 35,
+    "object_id_1_name": "water bottle"
+  },
+  {
+    "scene_id": "scene0534_00",
+    "type": "scannet-1object",
+    "object_id_1": "3,24",
+    "object_id_1_name": "poster",
+    "question": "Employees often decorate with visual aids to provide information or motivation. What item in the scene could serve this purpose?",
+    "answer": "The 'poster' can be used to display motivational quotes or important information."
+  },
+  {
+    "scene_id": "scene0517_00",
+    "type": "scannet-1object",
+    "object_id_1": 36,
+    "object_id_1_name": "poster",
+    "question": "Students often decorate their walls with items that reflect their interests or personalities. What object in the scene could be a decorative item on the wall that adds a personal touch?",
+    "answer": "The 'poster' can be hung on the wall to display favorite artwork or themes, adding a personal touch."
+  },
+  {
+    "scene_id": "scene0233_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "poster",
+    "question": "It is common to see decorations that reflect their interests or favorite bands. What item in the scene could be displaying a graphic or image related to pop culture or art?",
+    "answer": "The 'poster' can display a graphic or image related to pop culture or art, reflecting the teenager's interests."
+  },
+  {
+    "scene_id": "scene0140_00",
+    "type": "scannet-1object",
+    "object_id_1": 39,
+    "object_id_1_name": "projector screen",
+    "question": "What object is commonly used to display visual aids such as slideshows or videos for people to see?",
+    "answer": "The 'projector screen' is commonly used to display visual aids like slideshows or videos for clear viewing."
+  },
+  {
+    "scene_id": "scene0188_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "projector screen",
+    "question": "Where can educational materials be projected for everyone to see?",
+    "answer": "Educational materials can be projected onto the 'projector screen', making them visible to all."
+  },
+  {
+    "scene_id": "scene0452_00",
+    "type": "scannet-1object",
+    "object_id_1": 28,
+    "object_id_1_name": "projector screen",
+    "question": "What object is typically used to display presentations, videos, or slideshows to a larger audience?",
+    "answer": "The 'projector screen' is typically used to display presentations, videos, or slideshows to a larger audience."
+  },
+  {
+    "scene_id": "scene0522_00",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "washing machine",
+    "question": "When returning from a trip, where would you likely place your dirty clothes to be cleaned?",
+    "answer": "You would likely place your dirty clothes in the 'washing machine' to clean them."
+  },
+  {
+    "scene_id": "scene0421_00",
+    "question": " In a busy household, where can one find a convenient storage solution for collecting dirty clothes before they are washed? ",
+    "answer": "The 'laundry basket' provides a convenient storage solution in a busy household for collecting dirty clothes before washing.",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "laundry basket"
+  },
+  {
+    "scene_id": "scene0016_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "laundry basket",
+    "question": "In a tidy and organized setting, where would one typically find dirty clothes waiting to be washed?",
+    "answer": "Dirty clothes waiting to be washed are typically found in the 'laundry basket'."
+  },
+  {
+    "scene_id": "scene0195_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "laundry basket",
+    "question": "After taking a shower, where can one conveniently store dirty clothes until they are ready to be washed?",
+    "answer": "The 'laundry basket' can be used to conveniently store dirty clothes until laundry day."
+  },
+  {
+    "scene_id": "scene0421_00",
+    "question": " After washing clothes, where in the scene can one place the wet clothes to dry them efficiently and quickly? ",
+    "answer": "The 'clothes dryer' can be used to efficiently and quickly dry wet clothes after washing by placing them inside it.",
+    "type": "scannet-1object",
+    "object_id_1": 29,
+    "object_id_1_name": "clothes dryer"
+  },
+  {
+    "scene_id": "scene0232_00",
+    "question": " After washing their clothes in the washing machine, where in the scene can someone place their wet clothes to dry efficiently? ",
+    "answer": "The 'clothes dryer' can be used to efficiently dry wet clothes after washing them in the washing machine.",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "clothes dryer"
+  },
+  {
+    "scene_id": "scene0349_00",
+    "type": "scannet-1object",
+    "object_id_1": 4,
+    "object_id_1_name": "clothes dryer",
+    "question": "What appliance can be used to dry clothes quickly and efficiently after they have been washed?",
+    "answer": "The 'clothes dryer' can be used to dry clothes quickly and efficiently after washing."
+  },
+  {
+    "scene_id": "scene0404_00",
+    "question": " While doing laundry, what essential item in the scene is used to effectively clean clothes and remove stains? ",
+    "answer": "The 'laundry detergent' is essential for effectively cleaning clothes and removing stains during the laundry process.",
+    "type": "scannet-1object",
+    "object_id_1": "12,13,20,21",
+    "object_id_1_name": "laundry detergent"
+  },
+  {
+    "scene_id": "scene0669_00",
+    "question": " Safety is a top priority in any building. In case of a fire emergency, what essential safety equipment can be found in the scene to help extinguish small fires? ",
+    "answer": "The 'fire extinguisher' can be used to quickly put out small fires, ensuring safety in the building.",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "fire extinguisher"
+  },
+  {
+    "scene_id": "scene0592_00",
+    "type": "scannet-1object",
+    "object_id_1": 41,
+    "object_id_1_name": "fire extinguisher",
+    "question": "Safety is crucial. In the event of a small fire breaking out, what object can be used to help extinguish the flames quickly and effectively?",
+    "answer": "The 'fire extinguisher' can be used to quickly and effectively put out small fires by releasing a suppressing agent."
+  },
+  {
+    "scene_id": "scene0532_00",
+    "type": "scannet-1object",
+    "object_id_1": 10,
+    "object_id_1_name": "fire extinguisher",
+    "question": "Safety is a top priority. In case of a small fire, what essential safety equipment can be found to help extinguish the flames quickly?",
+    "answer": "The 'fire extinguisher' can be used to quickly extinguish a small fire, ensuring safety."
+  },
+  {
+    "scene_id": "scene0041_00",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "fan",
+    "question": "On a hot summer day, what object would likely be used to provide some relief from the heat for people?",
+    "answer": "The 'fan' can be used to circulate air and provide cooling relief on a hot summer day."
+  },
+  {
+    "scene_id": "scene0554_00",
+    "question": " During hot summer nights, people often rely on a cooling device to help them sleep comfortably. What object in the scene provides a breeze to help regulate the room temperature? ",
+    "answer": "The 'fan' provides a breeze to help regulate the room temperature during hot summer nights.",
+    "type": "scannet-1object",
+    "object_id_1": 9,
+    "object_id_1_name": "fan"
+  },
+  {
+    "scene_id": "scene0058_00",
+    "question": " Suppose you are in a room that can get quite stuffy during the warmer months. What object in the scene can help circulate the air and create a cooling breeze? ",
+    "answer": "The 'fan' can circulate the air and create a cooling breeze to alleviate stuffiness in the room during warmer months.",
+    "type": "scannet-1object",
+    "object_id_1": 40,
+    "object_id_1_name": "fan"
+  },
+  {
+    "scene_id": "scene0390_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "range hood",
+    "question": "When cooking a meal that involves a lot of frying or grilling, what appliance helps to remove smoke, grease, and odors from the air to keep the area fresh and clean?",
+    "answer": "The 'range hood' effectively removes smoke, grease, and odors from the air during frying or grilling to maintain a fresh and clean environment."
+  },
+  {
+    "scene_id": "scene0515_00",
+    "type": "scannet-1object",
+    "object_id_1": 45,
+    "object_id_1_name": "range hood",
+    "question": "When cooking food that releases smoke, grease, and odors, what appliance helps to remove these by extracting the air above the stove?",
+    "answer": "The 'range hood' extracts smoke, grease, and odors from the air above the stove during cooking."
+  },
+  {
+    "scene_id": "scene0111_00",
+    "type": "scannet-1object",
+    "object_id_1": 43,
+    "object_id_1_name": "range hood",
+    "question": "When cooking, what appliance is typically used to remove smoke, steam, and cooking odors from the air to keep the environment fresh?",
+    "answer": "The 'range hood' is typically used to remove smoke, steam, and cooking odors from the air during cooking to maintain a fresh environment."
+  },
+  {
+    "scene_id": "scene0612_00",
+    "type": "scannet-1object",
+    "object_id_1": "8,9",
+    "object_id_1_name": "trash bin",
+    "question": "After drying their hands, where should people dispose of used paper towels or other waste materials?",
+    "answer": "The 'trash bin' is the designated place for disposing of used paper towels and other waste materials after drying hands."
+  },
+  {
+    "scene_id": "scene0042_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "trash bin",
+    "question": "Where can people dispose of used paper towels or other small waste items?",
+    "answer": "The 'trash bin' can be used to dispose of used paper towels and other small waste items."
+  },
+  {
+    "scene_id": "scene0112_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "trash bin",
+    "question": "Where can people dispose of used paper towels and other waste materials?",
+    "answer": "The 'trash bin' is where people can dispose of used paper towels and other waste materials."
+  },
+  {
+    "scene_id": "scene0604_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "piano",
+    "question": "In a cozy setup, which object can be a source of entertainment and music for the residents or guests?",
+    "answer": "The 'piano' can provide entertainment and music for residents or guests."
+  },
+  {
+    "scene_id": "scene0588_00",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "piano",
+    "question": "What musical instrument can be a focal point and add a touch of elegance?",
+    "answer": "The 'piano' can serve as a focal point and add elegance with its classic design and musical presence."
+  },
+  {
+    "scene_id": "scene0016_00",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "piano",
+    "question": "There is a large musical instrument that can produce beautiful melodies when played. What object fits this description?",
+    "answer": "The 'piano' is the large musical instrument that produces beautiful melodies when played."
+  },
+  {
+    "scene_id": "scene0027_00",
+    "type": "scannet-1object",
+    "object_id_1": "10,11,12",
+    "object_id_1_name": "music stand",
+    "question": "Musicians often use a specific piece of equipment to hold their sheet music or notes while playing an instrument. What item serves this purpose?",
+    "answer": "The 'music stand' can be used by musicians to hold their sheet music or notes while playing an instrument."
+  },
+  {
+    "scene_id": "scene0336_00",
+    "type": "scannet-1object",
+    "object_id_1": 34,
+    "object_id_1_name": "music stand",
+    "question": "Musicians often use a specific piece of equipment to hold their sheet music or notes while practicing or performing. What object in the scene could serve this purpose?",
+    "answer": "The 'music stand' can hold sheet music or notes for musicians to read while practicing or performing."
+  },
+  {
+    "scene_id": "scene0236_00",
+    "question": " In a music room, musicians often use a piece of equipment to hold their sheet music or books at a convenient height while playing instruments. What object in the scene serves this purpose for musicians? ",
+    "answer": "The 'music stand' holds sheet music at a convenient height for musicians to read while playing instruments.",
+    "type": "scannet-1object",
+    "object_id_1": 7,
+    "object_id_1_name": "music stand"
+  },
+  {
+    "scene_id": "scene0007_00",
+    "question": " When entering a dark room, what object in the scene can you interact with to illuminate the space and make it brighter? ",
+    "answer": "The 'light switch' can be flipped on to turn on the lights, illuminating the dark room and making it brighter.",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "light switch"
+  },
+  {
+    "scene_id": "scene0074_00",
+    "question": " After a long day at work, a person enters the room and wants to quickly turn on the lights. What object in the scene can help them illuminate the room with just a flick? ",
+    "answer": "The 'light switch' can be turned on with a quick flick to illuminate the room instantly.",
+    "type": "scannet-1object",
+    "object_id_1": 13,
+    "object_id_1_name": "light switch"
+  },
+  {
+    "scene_id": "scene0571_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "light switch",
+    "question": "After a long day at work, someone comes home feeling exhausted and wants to take a relaxing bath. What object in the scene can they use to adjust the lighting for a soothing ambiance?",
+    "answer": "The 'light switch' can be used to dim the lights, creating a soothing ambiance for a relaxing bath after a long day."
+  },
+  {
+    "scene_id": "scene0448_00",
+    "question": " In the morning, many people enjoy taking a refreshing shower to start their day. What object in the scene provides the water for a shower experience? ",
+    "answer": "The 'shower head' provides the water for a refreshing shower experience in the morning.",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "shower head"
+  },
+  {
+    "scene_id": "scene0539_00",
+    "type": "scannet-1object",
+    "object_id_1": 2,
+    "object_id_1_name": "shower head",
+    "question": "What object in the scene is essential for providing water for showering or bathing purposes?",
+    "answer": "The 'shower head' is essential for providing water for showering or bathing purposes."
+  },
+  {
+    "scene_id": "scene0662_00",
+    "type": "scannet-1object",
+    "object_id_1": 26,
+    "object_id_1_name": "shower head",
+    "question": "What object is commonly used to control the flow and temperature of water for showering?",
+    "answer": "The 'shower head' is commonly used to control the flow and temperature of water for showering."
+  },
+  {
+    "scene_id": "scene0101_00",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "closet",
+    "question": "When organizing, what furniture item in the scene is commonly used to store clothes, shoes, and other personal items to keep things tidy and clutter-free?",
+    "answer": "The 'closet' is commonly used to store clothes, shoes, and other personal items, helping to keep things tidy and clutter-free."
+  },
+  {
+    "scene_id": "scene0589_00",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "closet",
+    "question": "Where can one typically store their clothes and personal items to keep things tidy and organized?",
+    "answer": "The 'closet' is typically used to store clothes and personal items, helping to keep things tidy and organized."
+  },
+  {
+    "scene_id": "scene0073_00",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "closet",
+    "question": "When staying at a hotel, where would you typically find extra blankets, hangers, and space to store your clothes?",
+    "answer": "The 'closet' typically provides extra blankets, hangers, and space to store your clothes."
+  },
+  {
+    "scene_id": "scene0516_00",
+    "type": "scannet-1object",
+    "object_id_1": 51,
+    "object_id_1_name": "stair rail",
+    "question": "What object in the scene serves as a safety feature to provide support and stability while going up or down?",
+    "answer": "The 'stair rail' provides support and stability for safely ascending or descending."
+  },
+  {
+    "scene_id": "scene0069_00",
+    "question": " In a two-story house, what object in the scene provides support and safety while moving between the different levels of the home? ",
+    "answer": "The 'stair rail' provides support and safety for individuals moving between the different levels of a two-story house.",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "stair rail"
+  },
+  {
+    "scene_id": "scene0561_00",
+    "type": "scannet-1object",
+    "object_id_1": 0,
+    "object_id_1_name": "stair rail",
+    "question": "What safety feature can individuals use to hold onto while ascending or descending?",
+    "answer": "The 'stair rail' provides a sturdy handhold for individuals to grasp while safely ascending or descending."
+  },
+  {
+    "scene_id": "scene0293_00",
+    "type": "scannet-1object",
+    "object_id_1": 6,
+    "object_id_1_name": "trash can",
+    "question": "Where can employees dispose of unwanted papers and other items to keep things clean and organized?",
+    "answer": "Employees can use the 'trash can' to dispose of unwanted papers and other items, helping to maintain a clean and organized environment."
+  },
+  {
+    "scene_id": "scene0360_00",
+    "question": " In a clean and organized room, where would you typically find a container for disposing of waste materials such as used tissues or wrappers? ",
+    "answer": "In a clean and organized room, the 'trash can' is typically placed near a desk or in a corner for convenient disposal of waste materials like used tissues or wrappers.",
+    "type": "scannet-1object",
+    "object_id_1": "0,1",
+    "object_id_1_name": "trash can"
+  },
+  {
+    "scene_id": "scene0317_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "trash can",
+    "question": "What object in the scene is typically used for disposing of unwanted papers, packaging, and other waste materials?",
+    "answer": "The 'trash can' is typically used for disposing of unwanted papers, packaging, and other waste materials."
+  },
+  {
+    "scene_id": "scene0350_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "bench",
+    "question": "Where can people sit to change their shoes or clothes comfortably?",
+    "answer": "The 'bench' provides a sturdy and comfortable seating surface for people to sit on while changing their shoes or clothes."
+  },
+  {
+    "scene_id": "scene0431_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "bench",
+    "question": "Where can people sit and wait for their turn or take a short break in the scene?",
+    "answer": "The 'bench' provides a place for people to sit and wait for their turn or take a short break."
+  },
+  {
+    "scene_id": "scene0673_00",
+    "type": "scannet-1object",
+    "object_id_1": "41,44,56,57,61",
+    "object_id_1_name": "speaker",
+    "question": "What object in the scene could be used to play music or enhance the audio experience while watching TV or movies?",
+    "answer": "The 'speaker' can be used to play music or enhance the audio experience while watching TV or movies."
+  },
+  {
+    "scene_id": "scene0533_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "speaker",
+    "question": "What object in the scene can enhance the sound quality and amplify the music being played from the piano or other devices?",
+    "answer": "The 'speaker' can enhance sound quality and amplify music from the piano or other devices."
+  },
+  {
+    "scene_id": "scene0010_00",
+    "question": " Imagine a scenario where someone in this room wants to play music from their laptop for a small gathering. What item in the scene could they use to amplify the sound and enhance the listening experience? ",
+    "answer": "The 'speaker' can be connected to the laptop to amplify the music and enhance the listening experience for the small gathering.",
+    "type": "scannet-1object",
+    "object_id_1": "42,43,44",
+    "object_id_1_name": "speaker"
+  },
+  {
+    "scene_id": "scene0101_00",
+    "type": "scannet-1object",
+    "object_id_1": 36,
+    "object_id_1_name": "bicycle",
+    "question": "If someone in the scene wants to go for a ride, what object can they use for transportation?",
+    "answer": "The 'bicycle' can be used for transportation to go for a ride."
+  },
+  {
+    "scene_id": "scene0605_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "bicycle",
+    "question": "When entering, what wheeled object from the scene is typically placed in a designated area to avoid cluttering?",
+    "answer": "The 'bicycle' is typically placed in a designated area to prevent clutter."
+  },
+  {
+    "scene_id": "scene0384_00",
+    "question": " Imagine you are in a room where space is limited, and you need a compact and efficient mode of transportation. What object in the scene can be used for quick and easy movement in such a scenario? ",
+    "answer": "The 'bicycle' can be used for quick and easy movement in a space-limited room by being stored compactly and ridden efficiently.",
+    "type": "scannet-1object",
+    "object_id_1": "29,30",
+    "object_id_1_name": "bicycle"
+  },
+  {
+    "scene_id": "scene0541_00",
+    "question": " When entering a room, where in the scene can you typically find a designated spot to hang your coat or jacket to keep it organized and easily accessible? ",
+    "answer": "The 'coat rack' is typically placed near the entrance of the room, providing a designated spot to hang your coat or jacket for organization and easy access.",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "coat rack"
+  },
+  {
+    "scene_id": "scene0073_00",
+    "type": "scannet-1object",
+    "object_id_1": 27,
+    "object_id_1_name": "coat rack",
+    "question": "What furniture piece in the scene can be used to hang jackets, coats, or hats neatly instead of throwing them on the bed or chair?",
+    "answer": "The 'coat rack' can be used to hang jackets, coats, or hats neatly, keeping them organized and off the bed or chair."
+  },
+  {
+    "scene_id": "scene0418_00",
+    "question": " When entering a room during the winter, where can one typically hang their heavy winter coat to keep it organized and easily accessible? ",
+    "answer": "The 'coat rack' is typically used to hang a heavy winter coat upon entering a room, keeping it organized and easily accessible.",
+    "type": "scannet-1object",
+    "object_id_1": 18,
+    "object_id_1_name": "coat rack"
+  },
+  {
+    "scene_id": "scene0359_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "paper towel roll",
+    "question": "What object in the scene seems out of place and more commonly found elsewhere?",
+    "answer": "The 'paper towel roll' seems out of place, as it is more commonly found for cleaning spills."
+  },
+  {
+    "scene_id": "scene0492_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "paper towel roll",
+    "question": "What item in the scene is commonly used for drying hands after washing them?",
+    "answer": "The 'paper towel roll' is commonly used for drying hands after washing them."
+  },
+  {
+    "scene_id": "scene0198_00",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "paper towel roll",
+    "question": "Spills and messes are common occurrences. What item in the scene can be used to quickly clean up spills and wipe surfaces?",
+    "answer": "The 'paper towel roll' can be used to quickly clean up spills and wipe surfaces."
+  },
+  {
+    "scene_id": "scene0515_00",
+    "type": "scannet-1object",
+    "object_id_1": 33,
+    "object_id_1_name": "keyboard piano",
+    "question": "What object in the scene would be used to create melodies and harmonies through the press of keys?",
+    "answer": "The 'keyboard piano' can be used to create melodies and harmonies by pressing its keys."
+  },
+  {
+    "scene_id": "scene0174_00",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "keyboard piano",
+    "question": "Artists often use a musical instrument to create melodies and harmonies for their songs. What object in the scene is commonly used for this purpose?",
+    "answer": "The 'keyboard piano' is commonly used by artists to create melodies and harmonies for their songs."
+  },
+  {
+    "scene_id": "scene0623_00",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "keyboard piano",
+    "question": "What object in the scene is essential for creating melodies and harmonies by pressing keys to produce musical notes?",
+    "answer": "The 'keyboard piano' is essential for creating melodies and harmonies by pressing keys to produce musical notes."
+  },
+  {
+    "scene_id": "scene0177_00",
+    "type": "scannet-1object",
+    "object_id_1": 14,
+    "object_id_1_name": "dumbbell",
+    "question": "What object in the scene can be used for strength training exercises to build muscle and improve fitness levels?",
+    "answer": "The 'dumbbell' can be used for strength training exercises like bicep curls and shoulder presses to build muscle and improve fitness levels."
+  },
+  {
+    "scene_id": "scene0073_00",
+    "type": "scannet-1object",
+    "object_id_1": "1,2,3,4,5",
+    "object_id_1_name": "dumbbell",
+    "question": "What object in this scene can be used for strength training exercises to build muscle?",
+    "answer": "The 'dumbbell' can be used for strength training exercises like bicep curls and shoulder presses to build muscle."
+  },
+  {
+    "scene_id": "scene0424_00",
+    "type": "scannet-1object",
+    "object_id_1": 25,
+    "object_id_1_name": "dumbbell",
+    "question": "What item in the scene can be used for weight training exercises to strengthen muscles?",
+    "answer": "The 'dumbbell' can be used for weight training exercises like bicep curls to strengthen muscles."
+  },
+  {
+    "scene_id": "scene0590_00",
+    "question": " If a guest at a hotel needs to quickly iron their clothes before a meeting, what item in the scene can they use for this purpose? ",
+    "answer": "The 'ironing board' provides a flat, stable surface for the guest to quickly iron their clothes before the meeting.",
+    "type": "scannet-1object",
+    "object_id_1": 31,
+    "object_id_1_name": "ironing board"
+  },
+  {
+    "scene_id": "scene0522_00",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "ironing board",
+    "question": "When preparing for a formal event, one might need to iron their clothes to ensure a neat appearance. What object in the scene can be used for this task?",
+    "answer": "The 'ironing board' provides a flat, stable surface for ironing clothes to remove wrinkles."
+  },
+  {
+    "scene_id": "scene0261_00",
+    "question": " When staying in a hotel, guests may need to iron their clothes before an important event. What item in the scene can be used to smoothen out wrinkles on clothing? ",
+    "answer": "The 'ironing board' provides a stable surface for guests to iron their clothes and remove wrinkles before an important event.",
+    "type": "scannet-1object",
+    "object_id_1": 25,
+    "object_id_1_name": "ironing board"
+  },
+  {
+    "scene_id": "scene0499_00",
+    "question": " After a party, there might be crumbs and debris scattered on the floor. What object in the scene can be used to clean up the mess efficiently? ",
+    "answer": "The 'vacuum cleaner' can efficiently suck up crumbs and debris from the floor after a party.",
+    "type": "scannet-1object",
+    "object_id_1": 43,
+    "object_id_1_name": "vacuum cleaner"
+  },
+  {
+    "scene_id": "scene0673_00",
+    "type": "scannet-1object",
+    "object_id_1": 73,
+    "object_id_1_name": "vacuum cleaner",
+    "question": "After a long day of work, someone might want to clean up to create a more relaxing environment. What object in the scene can be used to remove dust and debris from the floor effectively?",
+    "answer": "The 'vacuum cleaner' can effectively remove dust and debris from the floor to create a more relaxing environment."
+  },
+  {
+    "scene_id": "scene0405_00",
+    "question": " In a clean and well-maintained room, what object in the scene can be used to remove dust and dirt from the floor and carpets effectively? ",
+    "answer": "The 'vacuum cleaner' can effectively remove dust and dirt from floors and carpets in a clean room.",
+    "type": "scannet-1object",
+    "object_id_1": 20,
+    "object_id_1_name": "vacuum cleaner"
+  },
+  {
+    "scene_id": "scene0102_00",
+    "question": " When setting up a room for a special event, what general category of items from the scene, encompassing tables and seating, is essential for both functionality and aesthetics? ",
+    "answer": "The 'furniture' category, including tables and seating, is essential for providing functional surfaces and comfortable arrangements while enhancing the room's aesthetics during a special event.",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "furniture"
+  },
+  {
+    "scene_id": "scene0230_00",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "furniture",
+    "question": "When setting up a new space, what category of items in the scene would you focus on arranging first to create a functional and comfortable environment for employees?",
+    "answer": "The 'furniture' category, including desks and chairs, should be arranged first to establish a functional and comfortable environment."
+  },
+  {
+    "scene_id": "scene0318_00",
+    "question": " In a cozy living room setup, what category do the armchair and coffee table belong to in terms of the items present in the scene? ",
+    "answer": "The 'furniture' category includes the armchair and coffee table as essential seating and surface items in a cozy living room setup.",
+    "type": "scannet-1object",
+    "object_id_1": 5,
+    "object_id_1_name": "furniture"
+  },
+  {
+    "scene_id": "scene0373_00",
+    "question": " In a classroom setting, where would a teacher typically sit during a lesson to oversee the students and lead the class? ",
+    "answer": "The 'office chair' would typically be placed at the teacher's desk in the front of the classroom, allowing the teacher to sit and oversee students while leading the lesson.",
+    "type": "scannet-1object",
+    "object_id_1": "1,2,3",
+    "object_id_1_name": "office chair"
+  },
+  {
+    "scene_id": "scene0388_00",
+    "question": " In a classroom setting, students often have a designated seat where they sit during lessons. What object in the scene would typically be used by a student to sit at their assigned spot? ",
+    "answer": "The 'office chair' would typically be used by a student to sit at their assigned spot during classroom lessons.",
+    "type": "scannet-1object",
+    "object_id_1": "0,1,2,3,4,5,19",
+    "object_id_1_name": "office chair"
+  },
+  {
+    "scene_id": "scene0551_00",
+    "question": " In a modern office setup, what item in the scene is essential for providing ergonomic support and comfort for long hours of work at the desk? ",
+    "answer": "The 'office chair' is essential for providing ergonomic support and comfort during long hours of work at the desk.",
+    "type": "scannet-1object",
+    "object_id_1": "0,1,2,3,4,5,6,7",
+    "object_id_1_name": "office chair"
+  },
+  {
+    "scene_id": "scene0654_00",
+    "type": "scannet-1object",
+    "object_id_1": 28,
+    "object_id_1_name": "toaster oven",
+    "question": "In a busy morning, someone may want to quickly heat up a breakfast pastry before heading out. Which appliance can be used for this purpose?",
+    "answer": "The 'toaster oven' can quickly heat up a breakfast pastry in a busy morning before heading out."
+  },
+  {
+    "scene_id": "scene0068_00",
+    "type": "scannet-1object",
+    "object_id_1": 25,
+    "object_id_1_name": "toaster oven",
+    "question": "If someone wants to quickly heat up a small portion of food without using a large oven, what appliance would they most likely use?",
+    "answer": "The 'toaster oven' can be used to quickly heat up a small portion of food without needing a large oven."
+  },
+  {
+    "scene_id": "scene0000_00",
+    "type": "scannet-1object",
+    "object_id_1": 45,
+    "object_id_1_name": "toaster oven",
+    "question": "What appliance can be used to quickly toast bread or bake small food items?",
+    "answer": "The 'toaster oven' can be used to quickly toast bread or bake small food items."
+  },
+  {
+    "scene_id": "scene0555_00",
+    "type": "scannet-1object",
+    "object_id_1": 17,
+    "object_id_1_name": "oven",
+    "question": "When preparing a meal, which appliance can be used to bake, roast, or heat up food?",
+    "answer": "The 'oven' can be used to bake, roast, or heat up food when preparing a meal."
+  },
+  {
+    "scene_id": "scene0433_00",
+    "type": "scannet-1object",
+    "object_id_1": "2,19",
+    "object_id_1_name": "oven",
+    "question": "What appliance is typically used for baking, roasting, and cooking a variety of dishes at high temperatures?",
+    "answer": "The 'oven' is typically used for baking, roasting, and cooking a variety of dishes at high temperatures."
+  },
+  {
+    "scene_id": "scene0542_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "oven",
+    "question": "During the holiday season, families often gather to cook festive meals together. Which appliance can be used to bake delicious homemade pies and cookies for the special occasion?",
+    "answer": "The 'oven' can be used to bake delicious homemade pies and cookies for festive holiday meals."
+  },
+  {
+    "scene_id": "scene0040_00",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "paper bag",
+    "question": "When employees need a lightweight, disposable container with handles to conveniently carry documents or small items, which object fits this description?",
+    "answer": "The 'paper bag' serves as a lightweight, disposable container with handles, ideal for carrying documents or small items."
+  },
+  {
+    "scene_id": "scene0439_00",
+    "type": "scannet-1object",
+    "object_id_1": 19,
+    "object_id_1_name": "paper bag",
+    "question": "When grocery shopping, what item can be used to carry purchased items?",
+    "answer": "The 'paper bag' can be used to carry groceries after shopping."
+  },
+  {
+    "scene_id": "scene0654_00",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "paper bag",
+    "question": "What portable and disposable container can be used specifically for carrying or temporarily storing groceries or packed lunches?",
+    "answer": "The 'paper bag' can be used as a portable and disposable container for carrying groceries or packed lunches."
+  },
+  {
+    "scene_id": "scene0090_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "sink",
+    "question": "Where can people wash their hands after using the facilities?",
+    "answer": "The 'sink' is where people can wash their hands after using the facilities."
+  },
+  {
+    "scene_id": "scene0399_00",
+    "type": "scannet-1object",
+    "object_id_1": "2,3",
+    "object_id_1_name": "sink",
+    "question": "What feature can be used for washing hands and maintaining personal hygiene?",
+    "answer": "The 'sink' provides a faucet and basin for washing hands and maintaining personal hygiene."
+  },
+  {
+    "scene_id": "scene0573_00",
+    "question": " In a kitchen, where would one typically find a source of water for washing dishes, preparing food, and filling up pots for cooking? ",
+    "answer": "The 'sink' is typically found in the kitchen as a source of water for washing dishes, preparing food, and filling pots for cooking.",
+    "type": "scannet-1object",
+    "object_id_1": 8,
+    "object_id_1_name": "sink"
+  },
+  {
+    "scene_id": "scene0407_00",
+    "type": "scannet-1object",
+    "object_id_1": 3,
+    "object_id_1_name": "potted plant",
+    "question": "What decorative item can add a touch of nature and greenery?",
+    "answer": "The 'potted plant' can add a touch of nature and greenery."
+  },
+  {
+    "scene_id": "scene0706_00",
+    "question": " In interior design, adding elements of nature like plants can bring a sense of freshness and vitality to a room. What decorative item in the scene can contribute to this natural ambiance? ",
+    "answer": "The 'potted plant' can contribute to the natural ambiance by adding elements of nature that bring freshness and vitality to the room.",
+    "type": "scannet-1object",
+    "object_id_1": 24,
+    "object_id_1_name": "potted plant"
+  },
+  {
+    "scene_id": "scene0622_00",
+    "question": " In a minimalist room setting, what decorative element is present that adds a touch of greenery and life to the space? ",
+    "answer": "The 'potted plant' serves as a decorative element that adds a touch of greenery and life to the minimalist room.",
+    "type": "scannet-1object",
+    "object_id_1": 11,
+    "object_id_1_name": "potted plant"
+  },
+  {
+    "scene_id": "scene0589_00",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "guitar",
+    "question": "What object can be used to create soothing melodies and add a touch of artistic flair?",
+    "answer": "The 'guitar' can be used to create soothing melodies and add artistic flair."
+  },
+  {
+    "scene_id": "scene0000_00",
+    "type": "scannet-1object",
+    "object_id_1": 47,
+    "object_id_1_name": "guitar",
+    "question": "Imagine a cozy evening gathering with friends. What object could be picked up and played to add a musical touch to the ambiance?",
+    "answer": "The 'guitar' can be picked up and played to add a musical touch to the cozy evening gathering with friends."
+  },
+  {
+    "scene_id": "scene0141_00",
+    "question": " In a music room, what object in the scene can be used to create melodious tunes and rhythms by strumming or plucking its strings? ",
+    "answer": "The 'guitar' can be used to create melodious tunes and rhythms by strumming or plucking its strings in the music room.",
+    "type": "scannet-1object",
+    "object_id_1": 68,
+    "object_id_1_name": "guitar"
+  },
+  {
+    "scene_id": "scene0000_00",
+    "type": "scannet-1object",
+    "object_id_1": 66,
+    "object_id_1_name": "guitar case",
+    "question": "Imagine a musician staying here. Which item could be holding a musical instrument that the musician uses for performances or practice?",
+    "answer": "The 'guitar case' can securely hold a musical instrument like a guitar for the musician's performances or practice sessions."
+  },
+  {
+    "scene_id": "scene0141_00",
+    "question": " Imagine a musician getting ready for a performance. Which item in the scene could they use to safely transport and protect their guitar on the way to the venue? ",
+    "answer": "The 'guitar case' can be used to safely transport and protect the guitar during travel to the performance venue.",
+    "type": "scannet-1object",
+    "object_id_1": 69,
+    "object_id_1_name": "guitar case"
+  },
+  {
+    "scene_id": "scene0092_00",
+    "type": "scannet-1object",
+    "object_id_1": "34,35,36",
+    "object_id_1_name": "guitar case",
+    "question": "Imagine a musician getting ready for a performance. Which item would they most likely use to carry and protect their guitar while traveling to the venue?",
+    "answer": "The musician would use the 'guitar case' to carry and protect their guitar while traveling to the venue."
+  },
+  {
+    "scene_id": "scene0002_00",
+    "question": " During a cozy winter evening, what object in the scene can provide warmth and create a comforting ambiance in the room? ",
+    "answer": "The 'fireplace' can provide warmth and create a comforting ambiance during a cozy winter evening.",
+    "type": "scannet-1object",
+    "object_id_1": 15,
+    "object_id_1_name": "fireplace"
+  },
+  {
+    "scene_id": "scene0178_00",
+    "question": " During a cozy winter evening, what object in the room can provide warmth and create a relaxing ambiance with its flickering flames? ",
+    "answer": "The 'fireplace' can provide warmth and create a relaxing ambiance with its flickering flames during a cozy winter evening.",
+    "type": "scannet-1object",
+    "object_id_1": 12,
+    "object_id_1_name": "fireplace"
+  },
+  {
+    "scene_id": "scene0233_00",
+    "type": "scannet-1object",
+    "object_id_1": 32,
+    "object_id_1_name": "fireplace",
+    "question": "During a cold winter night, where can one gather around for warmth and ambiance, possibly roasting marshmallows or just enjoying the crackling sound of burning wood?",
+    "answer": "The 'fireplace' provides warmth and ambiance, ideal for gathering around on a cold winter night to roast marshmallows and enjoy the crackling sound."
+  },
+  {
+    "scene_id": "scene0340_00",
+    "type": "scannet-1object",
+    "object_id_1": 1,
+    "object_id_1_name": "luggage",
+    "question": "When guests check in, they often bring their belongings with them. What item is typically used to transport and store personal items such as clothes and toiletries?",
+    "answer": "The 'luggage' is typically used by guests to transport and store personal items like clothes and toiletries when checking in."
+  },
+  {
+    "scene_id": "scene0590_00",
+    "question": " When checking out of a hotel, guests usually pack their belongings into a specific item for easy transportation. What object in the scene is commonly used for storing clothes and personal items during travel? ",
+    "answer": "The 'luggage' is commonly used for storing clothes and personal items during travel when checking out of a hotel.",
+    "type": "scannet-1object",
+    "object_id_1": 40,
+    "object_id_1_name": "luggage"
+  },
+  {
+    "scene_id": "scene0184_00",
+    "type": "scannet-1object",
+    "object_id_1": 21,
+    "object_id_1_name": "luggage",
+    "question": "Imagine you are preparing for a trip and need to pack your belongings. What item would you use to store your clothes and essentials for the journey?",
+    "answer": "The 'luggage' can be used to store your clothes and essentials for the journey when preparing for a trip."
+  },
+  {
+    "scene_id": "scene0424_00",
+    "type": "scannet-1object",
+    "object_id_1": "26,27,28,29,30,31,32,33,34",
+    "object_id_1_name": "cd case",
+    "question": "If someone wants to listen to music from their collection of CDs, where could they find the storage for these music discs?",
+    "answer": "The 'cd case' can be found on a shelf or in a media cabinet, providing storage for music discs."
+  },
+  {
+    "scene_id": "scene0282_00",
+    "question": " When trying to keep a room organized, what portable container from the scene is specifically designed for neatly storing and easily accessing clothes, accessories, or toys? ",
+    "answer": "The 'storage bin' is a portable container designed to neatly store and easily access clothes, accessories, or toys, helping to keep the room organized.",
+    "type": "scannet-1object",
+    "object_id_1": 22,
+    "object_id_1_name": "storage bin"
+  },
+  {
+    "scene_id": "scene0688_00",
+    "type": "scannet-1object",
+    "object_id_1": "33,34,35",
+    "object_id_1_name": "storage bin",
+    "question": "Where can one keep extra blankets, pillows, or seasonal clothes to maintain tidiness and organization?",
+    "answer": "The 'storage bin' can be used to store extra blankets, pillows, or seasonal clothes under the bed or in a closet to keep things tidy and organized."
+  },
+  {
+    "scene_id": "scene0308_00",
+    "question": " In a tidy and organized room, what portable, box-like container from the scene provides a convenient solution specifically for storing items like toys, clothes, or accessories? ",
+    "answer": "The 'storage bin' offers a portable, box-like container ideal for neatly organizing toys, clothes, or accessories in a tidy room.",
+    "type": "scannet-1object",
+    "object_id_1": "27,28,29,30,31,32,33",
+    "object_id_1_name": "storage bin"
+  },
+  {
+    "scene_id": "scene0125_00",
+    "question": " In a cozy living room setup, where can someone sit comfortably to relax and unwind after a long day? ",
+    "answer": "The 'sofa chair' provides a comfortable spot in the cozy living room for someone to sit and relax after a long day.",
+    "type": "scannet-1object",
+    "object_id_1": "1,4",
+    "object_id_1_name": "sofa chair"
+  },
+  {
+    "scene_id": "scene0113_00",
+    "question": " In a cozy living room setting, where can one comfortably sit to relax and unwind while enjoying a cup of tea and a good book? ",
+    "answer": "The 'sofa chair' provides a comfortable spot in the living room to sit, relax, and enjoy a cup of tea while reading a book.",
+    "type": "scannet-1object",
+    "object_id_1": "2,3,4",
+    "object_id_1_name": "sofa chair"
+  },
+  {
+    "scene_id": "scene0226_00",
+    "type": "scannet-1object",
+    "object_id_1": "0,1,2,3",
+    "object_id_1_name": "sofa chair",
+    "question": "Where would one typically sit to relax and unwind while enjoying a book or a cup of tea?",
+    "answer": "The 'sofa chair' is typically placed where one can sit to relax and unwind while reading a book or sipping tea."
+  },
+  {
+    "scene_id": "scene0040_00",
+    "type": "scannet-1object",
+    "object_id_1": 37,
+    "object_id_1_name": "stuffed animal",
+    "question": "What item in the scene is often used for comfort, cuddling, and as a companion during playtime?",
+    "answer": "The 'stuffed animal' is often used for comfort, cuddling, and as a companion during playtime."
+  },
+  {
+    "scene_id": "scene0174_00",
+    "type": "scannet-1object",
+    "object_id_1": 16,
+    "object_id_1_name": "stuffed animal",
+    "question": "What item in the scene is often used as a comforting and cuddly companion for bedtime?",
+    "answer": "The 'stuffed animal' is often used as a comforting and cuddly companion for bedtime."
+  },
+  {
+    "scene_id": "scene0074_00",
+    "question": " In a child's room, what item in the scene can provide comfort and companionship during bedtime or playtime? ",
+    "answer": "The 'stuffed animal' can provide comfort and companionship to a child during bedtime or playtime.",
+    "type": "scannet-1object",
+    "object_id_1": "6,7",
+    "object_id_1_name": "stuffed animal"
+  },
+  {
+    "scene_id": "scene0147_00",
+    "type": "scannet-1object",
+    "object_id_1": 9,
+    "object_id_1_name": "mattress",
+    "question": "Considering the comfort of sleep, what essential item in the scene provides the main support and cushioning for a good night's rest?",
+    "answer": "The 'mattress' provides the main support and cushioning essential for a comfortable night's sleep."
+  },
+  {
+    "scene_id": "scene0160_00",
+    "question": " Imagine a cozy evening setting with dim lighting and a warm ambiance. What object in the scene would likely contribute to this cozy atmosphere by providing soft, flickering light? ",
+    "answer": "The 'candle' provides soft, flickering light that enhances the cozy atmosphere in the scene.",
+    "type": "scannet-1object",
+    "object_id_1": "15,16",
+    "object_id_1_name": "candle"
+  }
+]
